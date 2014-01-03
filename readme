@@ -1,0 +1,3 @@
+to run the tagger run ./tagger
+to view stats do python stats.py
+run make to make the file

@@ -1,0 +1,7573 @@
+! . 
+# # 
+$ $ 
+% ADJ N 
+& CONJ SYM 
+' '' PS 
+'' '' 
+'99 N 
+'99s N 
+'d N V 
+'ll V 
+'m V 
+'re V 
+'s N PS V 
+'ve V 
+( ( 
+) ) 
+, , 
+- : 
+-- : 
+. . 
+... : 
+/ CONJ 
+9 , ADJ N SYM 
+9,999 N 
+9,999,999 N 
+9,999.99 N 
+9-9 ADJ N 
+9-9-9 ADJ N 
+9-for-9 ADJ 
+9-year ADJ N 
+9.9 N 
+9.99 N 
+9.999 N 
+9.9999 N 
+99 N 
+99%-owned ADJ N 
+99,999 N 
+99,999,999 N 
+99-99 ADJ N 
+99-a-share ADJ 
+99-day ADJ N 
+99-hour ADJ N 
+99-member ADJ 
+99-month ADJ 
+99-nation ADJ 
+99-point ADJ 
+99-share ADJ N 
+99-story ADJ 
+99-week ADJ 
+99-year ADJ N 
+99-year-old ADJ N 
+99.9 N 
+99.99 N 
+99.999 N 
+999 N 
+999,999 N 
+999,999,999 N 
+999-99 ADJ N 
+999-999 ADJ N 
+999-a-share ADJ 
+999-day ADJ N 
+999-point ADJ 
+999-share ADJ N 
+999-stock ADJ N 
+999.9 N 
+999.99 N 
+999.99-point ADJ 
+999.999 N 
+9999 ADJ N 
+9999-99 N 
+9999-9999 N 
+9999.9 N 
+9999.99 N 
+99999.99 N 
+9999s N 
+99:99 N 
+99\/99 N 
+99th ADJ N 
+99th-century ADJ 
+9:99 N 
+9\/9 N 
+9\/99 N 
+: : 
+; : 
+? . 
+UNKNOWN $ , ADJ ADV CONJ DET N PRE PREP SYM V 
+\* N SYM 
+\*\* SYM 
+` `` 
+`` `` 
+a ADJ DET N PRE SYM 
+a$ $ 
+a. ADJ N 
+a.c. N 
+a.m ADV 
+a.m. ADV N 
+a.p. N 
+ab N 
+abandoned ADJ V 
+abc N 
+ability N 
+able ADJ 
+abm N 
+abortion N 
+abortion-rights ADJ N 
+abortions N 
+about ADV PRE 
+above ADJ ADV PRE 
+abroad ADV 
+abruptly ADV 
+absence N 
+absolutely ADV 
+absorb V 
+abuse N V 
+abuses N 
+academic ADJ 
+academy N 
+accelerated ADJ V 
+accelerating ADJ V 
+acceleration N 
+accept V 
+acceptable ADJ 
+acceptance N 
+acceptances N 
+accepted ADJ N V 
+accepting V 
+access N V 
+accessories N 
+accident N 
+accommodate V 
+accompanied V 
+accompanying ADJ V 
+accord N V 
+according V 
+account N V 
+accountants N 
+accounted V 
+accounting ADJ N V 
+accounts N V 
+accrued V 
+accurate ADJ 
+accusations N 
+accused V 
+achieve V 
+achieved V 
+achievement N 
+acknowledge V 
+acknowledged ADJ V 
+acknowledges V 
+acquire N V 
+acquired ADJ V 
+acquires V 
+acquiring V 
+acquisition N 
+acquisitions N 
+acquitted V 
+acres N 
+across ADV PRE 
+across-the-board ADJ 
+act N V 
+acted V 
+acting ADJ N V 
+action N 
+actions N 
+active ADJ 
+actively ADV 
+activist ADJ N 
+activists N 
+activities N 
+activity N 
+actor N 
+actors N 
+acts N V 
+actual ADJ 
+actually ADV 
+ad N SYM 
+adams N 
+adapted V 
+add V 
+added ADJ N V 
+adding V 
+addition N 
+additional ADJ 
+address N V 
+addressed V 
+addressing V 
+adds N V 
+adequate ADJ 
+adequately ADV 
+adjust V 
+adjustable ADJ 
+adjusted ADJ V 
+adjusters N 
+adjusting V 
+adjustment N 
+adjustments N 
+adm. N 
+administration N 
+administrative ADJ 
+administrator N 
+administrators N 
+admission N 
+admit V 
+admits N V 
+admitted V 
+admitting V 
+adobe N 
+adopt V 
+adopted V 
+adopting V 
+ads N 
+adult ADJ N 
+adults N 
+advance N V 
+advanced ADJ N V 
+advancers N 
+advances N 
+advancing V 
+advantage N V 
+advantages N 
+adverse ADJ 
+advertisers N 
+advertising N V 
+advice N 
+advise V 
+advised V 
+adviser N 
+advisers N 
+advises V 
+advising V 
+advisory ADJ N 
+advocate N V 
+advocates N V 
+aerospace ADJ N 
+aetna N 
+affair N 
+affairs N 
+affect V 
+affected ADJ V 
+affecting V 
+affidavit N 
+affiliate N 
+affiliated ADJ N V 
+affiliates N 
+affluent ADJ 
+afford V 
+affordable ADJ 
+afraid ADJ 
+africa N 
+african ADJ N 
+after ADV PRE 
+after-tax ADJ 
+aftermath N 
+afternoon N 
+aftershocks N 
+afterward ADV 
+afterwards ADV 
+ag N 
+again ADV 
+against PRE 
+age N V 
+agencies N 
+agency N 
+agenda N 
+agent N 
+agents N 
+aggressive ADJ 
+aggressively ADV 
+aging N V 
+agnos N 
+ago ADV PRE 
+agree V 
+agreed ADJ N V 
+agreeing V 
+agreement N 
+agreements N 
+agrees V 
+agricole N 
+agricultural ADJ N 
+agriculture N 
+ahead ADV 
+ahmanson N 
+aid N V 
+aide N 
+aided V 
+aides N 
+aids N V 
+aikman N 
+ailes N 
+ailing ADJ V 
+aim N V 
+aimed V 
+aims N V 
+air N V 
+air-freight ADJ N 
+aircraft N 
+airing N V 
+airline N 
+airlines N 
+airplanes N 
+airport N 
+airports N 
+airways N 
+alan N 
+alaska N 
+alaskan ADJ 
+albany N 
+albert N 
+alberta N 
+alcee N 
+alcohol N 
+alert ADJ N V 
+alex N 
+alexander N 
+alfred N 
+alive ADJ ADV 
+all ADV DET 
+allegations N 
+alleged ADJ V 
+allegedly ADV 
+alleges V 
+allen N 
+alliance N 
+allianz N 
+allied N V 
+allied-signal N 
+allies N 
+allocated V 
+allocation N 
+allow V 
+allowed V 
+allowing V 
+allows V 
+ally N 
+almost ADV 
+alone ADJ ADV 
+along ADV PRE 
+already ADV 
+also ADV 
+alter N V 
+alternative ADJ N 
+alternatives N 
+although PRE 
+alto N 
+altogether ADV 
+aluminum N 
+always ADV N 
+am N V 
+amazing ADJ N 
+ambassador N 
+ambitions N 
+ambitious ADJ 
+ambrosiano N 
+amdahl N 
+amdura N 
+amended V 
+amendment N 
+amendments N 
+america N 
+american ADJ N 
+americans N 
+amex N 
+amgen N 
+amid PRE 
+amoco N 
+among PRE 
+amount N V 
+amounted V 
+amounts N V 
+amr N 
+amsterdam N 
+amusing ADJ 
+an DET N 
+anacomp N 
+analysis N 
+analyst N 
+analysts N 
+analytical N 
+ancient ADJ N 
+and ADJ CONJ N PRE 
+anderson N 
+andersson N 
+andreas N 
+andrew N 
+angeles N 
+angeles-based ADJ 
+anger N 
+angered ADJ V 
+anglia N 
+angry ADJ N 
+anheuser N 
+animal N 
+animals N 
+ann N 
+anne N V 
+anniversary N 
+announce V 
+announced ADJ V 
+announcement N 
+announcements N 
+announcer N 
+announcing V 
+annoyed ADJ V 
+annual ADJ 
+annualized ADJ V 
+annually ADV 
+another DET 
+answer N V 
+answers N V 
+anthony N 
+anthrax N 
+anti-abortion ADJ N 
+anti-abortionists N 
+antibody N 
+anticipate V 
+anticipated ADJ V 
+anticipates V 
+anticipating V 
+anticipation N 
+antitrust ADJ N 
+antonio N 
+anxiety N 
+anxious ADJ 
+any ADV DET 
+anybody N 
+anymore ADV 
+anyone N 
+anything N 
+anyway ADV 
+anywhere ADV 
+aoun N 
+apart ADV 
+apartheid N 
+apartment N 
+apartments N 
+apiece ADJ ADV 
+apogee N 
+apparatus N 
+apparel N 
+apparent ADJ 
+apparently ADV 
+appeal N V 
+appealed V 
+appealing ADJ V 
+appeals N 
+appear V 
+appearance N 
+appeared V 
+appears V 
+appellate ADJ N 
+appetite N 
+apple N 
+apples N 
+appliances N 
+applicants N 
+application N 
+applications N 
+applied N V 
+apply V 
+appointed V 
+appointment N 
+appreciate V 
+appreciation N 
+approach N V 
+approached V 
+approaches N V 
+appropriate ADJ 
+appropriations N 
+approval N 
+approvals N 
+approve V 
+approved ADJ V 
+approximately ADV 
+april N 
+apt ADJ 
+arab ADJ N 
+arabia N 
+arafat N 
+arbitrage N 
+arbitragers N 
+architects N 
+architecture N 
+archrival ADJ N 
+arco N 
+are N PRE V 
+area N 
+areas N 
+arena N 
+argentina N 
+argue V 
+argued V 
+argues V 
+arguing V 
+argument N 
+arguments N 
+arias N 
+arising V 
+ariz N 
+ariz. N 
+arizona N 
+arkansas N 
+arkla N 
+arm N V 
+armco N 
+armed ADJ N V 
+armonk N 
+arms N 
+army N 
+arnold N 
+around ADV PRE 
+arrange V 
+arranged V 
+arrangement N 
+arrangements N 
+array N 
+arrest N V 
+arrived V 
+art N 
+arteries N 
+artery N 
+arthur N 
+article N 
+articles N 
+artist N 
+artistic ADJ 
+artists N 
+arts N 
+as ADV PRE 
+asarco N 
+asbestos N 
+ashland N V 
+ashton-tate N 
+asia ADJ N 
+asian ADJ N 
+aside ADV 
+ask V 
+asked ADJ V 
+asking N V 
+asks V 
+aspect N 
+aspects N 
+assassination N 
+assassinations N 
+assault N 
+assembled V 
+assembly N 
+asserted V 
+asserts V 
+assess V 
+assessed V 
+assessing V 
+assessment N 
+asset N 
+asset-backed ADJ N 
+assets N 
+assigned ADJ V 
+assist V 
+assistance N 
+assistant ADJ N 
+associate ADJ N V 
+associated ADJ N V 
+associates N 
+association N 
+assume V 
+assumed ADJ V 
+assuming V 
+assumption N 
+assumptions N 
+assurance N 
+assurances N 
+assured ADJ V 
+at ADV PRE 
+at&t N 
+atlanta N 
+atlantic ADJ N 
+atlantis N 
+atlas N 
+atmosphere N 
+atoms N 
+attached V 
+attack N V 
+attacked V 
+attacks N V 
+attempt N V 
+attempted ADJ V 
+attempting V 
+attempts N V 
+attendance N 
+attendants N 
+attended V 
+attending V 
+attention N 
+attitude N 
+attitudes N 
+attorney N 
+attorneys N 
+attract V 
+attracted V 
+attracting V 
+attractive ADJ 
+attribute N V 
+attributed V 
+auction N V 
+auctioned V 
+auctions N 
+audience N 
+audiences N 
+audit N V 
+auditors N 
+aug. N 
+august N 
+austin N 
+australia ADJ N 
+australian ADJ N 
+author N 
+authorities N 
+authority N 
+authorized ADJ V 
+authors N 
+auto N 
+automatic ADJ 
+automatically ADV 
+automobile N 
+automobiles N 
+automotive ADJ N 
+autos N 
+autumn N 
+auvil N 
+availability N 
+available ADJ 
+avenue N 
+average ADJ N V 
+averaged V 
+averages N 
+aviation N 
+avoid V 
+avoided V 
+avoiding V 
+avondale N 
+awaiting V 
+award N 
+awarded V 
+awards N V 
+aware ADJ 
+away ADV 
+awful ADJ 
+axa N 
+azt N 
+b N SYM 
+b-9 ADJ N 
+b. N 
+b.a.t N 
+baby N 
+back ADJ ADV N V 
+backed V 
+backer N 
+background N 
+backing N V 
+backlog N 
+backs N V 
+backup ADJ N 
+bacteria N 
+bad ADJ 
+badly ADV 
+bag N 
+bags N 
+bailey N 
+bailout N 
+baker N 
+balance N V 
+balanced ADJ V 
+baldwin N 
+balked V 
+ball N 
+balls N 
+bally N 
+baltimore N 
+ban N V 
+banc N 
+banco N 
+bancorp N 
+band N 
+bang N 
+bank N V 
+bank-backed ADJ 
+bank-holding ADJ 
+bankamerica N 
+banker N 
+bankers N 
+banking ADJ N V 
+bankruptcy N 
+bankruptcy-law N 
+banks N 
+banned V 
+banning V 
+banponce N 
+banque N 
+bar N V 
+barbara N 
+barber N 
+bard N 
+barely ADV 
+bargain N V 
+bargaining N 
+barn N 
+barney N 
+barometer N 
+barre N 
+barred V 
+barrel N 
+barrels N 
+barrier N 
+barriers N 
+barring V 
+barry N 
+bart N 
+bartlett N 
+base ADJ N 
+baseball N 
+based V 
+bases N V 
+basic ADJ N 
+basically ADV 
+basir N 
+basis N 
+basket N 
+basketball N 
+baskets N 
+bass N 
+batch N 
+bates N 
+batman N 
+battered ADJ V 
+battery N 
+battery-operated ADJ 
+battle N V 
+battled V 
+bay N 
+bay-area ADJ 
+be V 
+beach N 
+beam N 
+bear ADJ N V 
+bearing N V 
+bearish ADJ 
+bears N V 
+beat N V 
+beautiful ADJ 
+beauty N 
+bebear N 
+became V 
+because ADV PRE 
+bechtel N 
+become V 
+becomes V 
+becoming V 
+bed N 
+beebes N 
+beef N V 
+beefeater N 
+been V 
+beer N 
+beers N 
+before ADV PRE 
+began V 
+beghin-say N 
+begin V 
+beginning N V 
+begins V 
+begun V 
+behalf N 
+behavior N 
+behind ADV PRE 
+beijing N 
+being ADJ N V 
+belgian ADJ 
+belief N 
+believe V 
+believed V 
+believes V 
+bell N 
+belli N 
+bells N 
+bellsouth N 
+bellwether ADJ N 
+belong V 
+below ADV PRE 
+belts N 
+ben N 
+bench N 
+benchmark ADJ N 
+beneath PRE 
+beneficiaries N 
+benefit N V 
+benefit-seeking N 
+benefited V 
+benefiting V 
+benefits N V 
+benjamin N 
+bennett N 
+benson N 
+beretta N 
+berkeley N 
+berlin ADJ N 
+bernard N 
+berry N 
+besides ADV PRE 
+best ADJ ADV 
+bet N V 
+beta ADJ N 
+bethlehem N 
+better ADJ ADV N 
+betting V 
+between PRE 
+beverage N 
+beverly N 
+beyond ADV N PRE 
+bias N 
+bid N V 
+bidder N 
+bidders N 
+bidding N V 
+bids N V 
+big ADJ N 
+bigger ADJ 
+biggest ADJ 
+bill N V 
+billed V 
+billing N 
+billings N 
+billion N 
+billionaire N 
+billions N 
+bills N V 
+biological ADJ N 
+biotechnology N 
+birmingham N 
+bishop N 
+bit ADV N 
+bitter ADJ 
+bitterly ADV 
+black ADJ N 
+blacks N 
+blame N V 
+blamed V 
+blames V 
+bleak ADJ 
+blinder N 
+bloc N 
+block N V 
+blockbuster ADJ N 
+blocked V 
+blocking V 
+blocks N 
+blonde ADJ 
+blood N 
+bloomingdale N 
+blow N 
+blue ADJ N 
+blue-chip ADJ 
+blumenfeld N 
+board N 
+boards N 
+boasts V 
+bob N 
+body N 
+boeing N 
+boesel N 
+boesky N 
+bogart N 
+boies N 
+boiler N 
+bold ADJ 
+bolster V 
+bolstered V 
+bond N 
+bonds N 
+bonn N 
+bonus N 
+bonuses N 
+book N V 
+bookings N 
+booklets N 
+books N 
+boom N V 
+boomers N 
+booming ADJ V 
+boost N V 
+boosted V 
+boosting V 
+boosts N V 
+border N 
+borders N 
+boren N 
+bork N 
+born N V 
+borrow V 
+borrowed V 
+borrowers N 
+borrowing N V 
+borrowings N 
+boss N 
+bosses N 
+boston N 
+both CONJ DET 
+bother V 
+bottle N V 
+bottom ADJ N 
+bought V 
+boulevard N 
+bourbon N 
+bowes N 
+box N 
+boxes N 
+boy N SYM 
+boys N 
+bozell N 
+bracing V 
+bradford N 
+bradley N 
+bradstreet N 
+brady N 
+brain N 
+branch N V 
+branches N 
+brand N 
+brands N V 
+brawer N 
+brazil N 
+breach N V 
+break N V 
+breaker N 
+breakers N 
+breaking ADJ N V 
+breaks N V 
+breathing N V 
+breed N V 
+breeden N 
+brewery N 
+brewing N V 
+brian N 
+bribe N V 
+bribery N 
+brick N 
+bricks N 
+bridge ADJ N V 
+bridges N 
+brief ADJ N V 
+briefing N 
+briefly ADV N 
+bright ADJ N 
+bring V 
+bringing V 
+brings V 
+brisk ADJ 
+bristol-myers N 
+britain N 
+british ADJ N 
+broad ADJ 
+broadcast N V 
+broadcasting N V 
+broader ADJ 
+broadly ADV 
+brody N 
+broke V 
+broken ADJ N V 
+broker N 
+broker-dealer ADJ N 
+brokerage N 
+brokers N 
+bronx N 
+brooklyn N 
+bros. N 
+brother N 
+brothers N 
+brought V 
+brown ADJ N 
+brown-forman N 
+bruce N 
+bruno N 
+brush N V 
+brussels N 
+bryant N 
+buck N 
+buckle N V 
+buddy N 
+budget N 
+budgets N 
+buffett N 
+build V 
+builders N 
+building N V 
+buildings N 
+builds V 
+buildup N 
+built V 
+bulk ADJ N 
+bull N 
+bullion N 
+bullish ADJ 
+bumiputra N 
+buoyed V 
+burden N 
+burdens N V 
+bureau N 
+bureaucracy N 
+bureaucratic ADJ 
+bureaucrats N 
+bureaus N 
+burgess N 
+buried V 
+burlington N 
+burned ADJ V 
+burnham N 
+burning N V 
+burns N V 
+bursts N V 
+bus N 
+buses N 
+bush N 
+bushel N 
+busiest ADJ 
+business N 
+businesses N 
+businessland N 
+businessman N 
+businessmen N 
+busy ADJ 
+but ADV CONJ PRE 
+butcher N 
+butler N 
+buy ADJ N V 
+buy-back ADJ N V 
+buy-out ADJ N 
+buy-outs N 
+buyer N 
+buyers N 
+buying N V 
+buys V 
+by ADV PRE 
+byrne N 
+c N SYM 
+c$ $ 
+c. N 
+c.d.s N 
+ca ADJ V 
+cabernet N 
+cabinet N 
+cable N 
+cable-tv N 
+cabrera N 
+cafeteria N 
+caffeine-free ADJ 
+calculated V 
+calculations N 
+calendar N 
+calif N 
+calif. N 
+calif.-based ADJ 
+california ADJ N 
+californians N 
+call ADJ N V 
+callable ADJ 
+called V 
+calling N V 
+calls N V 
+caltrans N 
+cambodia N 
+cambridge N 
+camden N 
+came V 
+camera N 
+cameras N 
+campaign N 
+campaigns N 
+campbell N 
+campeau N 
+can N V 
+canada N 
+canadian ADJ N 
+cananea N 
+canceled V 
+cancer N 
+candela N 
+candidate N 
+candidates N 
+candlestick N 
+cane N 
+canelo N 
+cans N 
+cap N V 
+capable ADJ 
+capacity N 
+capcom N 
+capel N 
+capita N 
+capital ADJ N 
+capital-gains ADJ N 
+capitalism N 
+capitalist ADJ N 
+capitol N 
+capped ADJ V 
+capture N V 
+captured V 
+car N 
+carat N 
+carbide N 
+carbon N 
+card N 
+cards N 
+care N V 
+career N 
+careful ADJ 
+carefully ADV 
+cargo N 
+caribbean ADJ N 
+carl N 
+carlos N 
+carnival N 
+carol N 
+carolina N 
+carpets N 
+carried V 
+carrier N 
+carriers N 
+carries V 
+carry V 
+carrying N V 
+cars N 
+carter N 
+cartridge N 
+case N 
+cases N 
+cash N V 
+casino N 
+cast N V 
+casting N V 
+casualty N 
+cat N 
+catalog N 
+catalyst N 
+catastrophe N 
+catastrophic ADJ 
+catch N V 
+categories N 
+category N 
+caterpillar N 
+cathay N 
+cattle N 
+caught V 
+cause N V 
+caused V 
+causes N V 
+causing V 
+caution N V 
+cautioned V 
+cautious ADJ 
+cawthorn N 
+cboe N 
+cbs N 
+cd N 
+cdl N 
+cds N 
+ceiling N 
+cela N 
+cell N 
+cells N 
+cellular ADJ N 
+cement N V 
+cemetery N 
+census N 
+cent N 
+centennial ADJ N 
+center ADV N 
+centered V 
+centers N V 
+central ADJ N 
+cents N 
+century N 
+certain ADJ 
+certainly ADV 
+certificate N 
+certificates N 
+cfcs N 
+chain N 
+chains N 
+chairman N 
+chairmen N 
+chairs N V 
+challenge N V 
+challenges N 
+challenging ADJ V 
+chamber N 
+chambers N 
+champagne N 
+champion ADJ N 
+championship N 
+chan N 
+chance N 
+chancellor N 
+chances N 
+chandler N 
+change N V 
+changed ADJ V 
+changes N V 
+changing ADJ N V 
+channel N V 
+chapter N 
+character N 
+characters N 
+charge N V 
+charged V 
+charges N V 
+charging N V 
+charitable ADJ 
+charities N 
+charity N 
+charles N 
+charleston N 
+charlie N 
+charlotte N 
+chart N V 
+charter N 
+chartered ADJ V 
+charts N 
+chase N V 
+cheap ADJ N 
+cheaper ADJ 
+cheating N V 
+check N V 
+checking N V 
+checks N V 
+chefs N 
+chemical ADJ N 
+chemicals N 
+chemists N 
+cheney N 
+cherokee N 
+cherry N 
+chevrolet N 
+chevron N 
+chevy N 
+chicago N 
+chicago-based ADJ 
+chicken N 
+chief ADJ N 
+chiefs N 
+child N 
+children N 
+china N 
+chinese ADJ N 
+chip N 
+chips N 
+chiron N 
+choice N 
+choices N 
+choose V 
+choosing N V 
+chose V 
+chosen ADJ N V 
+chris N 
+christian ADJ N 
+christie N 
+christmas N 
+christopher N 
+chronic ADJ N 
+chrysler N 
+chuck N 
+chunk N 
+church N 
+cia N 
+ciba-geigy N 
+cie N 
+cigarette N 
+cigarettes N 
+cigna N 
+cincinnati N 
+circle N 
+circuit N 
+circulated V 
+circulating V 
+circulation N 
+circumstances N 
+cited V 
+cites V 
+citibank N 
+citicorp N 
+cities N 
+citing V 
+citizen N 
+citizens N 
+city N 
+civic ADJ 
+civil ADJ N 
+claim N V 
+claimants N 
+claimed V 
+claiming V 
+claims N V 
+clara N 
+clark N 
+clash N V 
+class N 
+class-action ADJ N 
+classes N 
+classic ADJ N 
+classified ADJ V 
+classroom N 
+clean ADJ N V 
+cleaning N V 
+cleanup N 
+clear ADJ ADV V 
+cleared V 
+clearing N V 
+clearly ADV 
+clears V 
+clerk N 
+cleveland N 
+client N 
+clients N 
+climate N 
+climb N V 
+climbed V 
+climbing V 
+clinic N 
+clinton N 
+close ADJ ADV N V 
+closed ADJ N V 
+closed-end ADJ 
+closely ADV 
+closer ADJ ADV 
+closes N V 
+closing N V 
+clothes N 
+clothing N 
+cloud N V 
+clouds N V 
+club N 
+clutter N V 
+co N 
+co-chairman N 
+co-chief ADJ N 
+co. N 
+coal N 
+coalition N 
+coast ADJ N 
+coastal ADJ N 
+coats N 
+coca-cola N 
+cocoa N 
+code N V 
+codes N 
+coffee N 
+cohen N 
+coins N 
+coke N 
+cold ADJ N 
+coleman N 
+colgate N 
+colgate-palmolive N 
+collapse N V 
+collapsed ADJ V 
+collateral N 
+colleagues N 
+collect V 
+collecting V 
+collection N 
+college N 
+colleges N 
+colo. N 
+colony N 
+color ADJ N V 
+colorado N 
+columbia N 
+columbus N 
+column N 
+columnist N 
+columns N 
+comair N 
+combat N V 
+combination N 
+combine V 
+combined ADJ V 
+combines N V 
+combustion N 
+come V 
+comeback N 
+comedy N 
+comes V 
+comex N 
+comfort N 
+comfortable ADJ 
+comic ADJ 
+coming ADJ V 
+comment N V 
+commentary N 
+commenting V 
+comments N 
+commerce N 
+commercial ADJ N 
+commerciale N 
+commercials N 
+commission N 
+commissioned V 
+commissioner N 
+commissions N 
+commitment N 
+commitments N 
+committed ADJ V 
+committee N 
+committees N 
+commodities N 
+commodity N 
+commodore N 
+common ADJ N 
+commonly ADV 
+commonwealth N 
+communication N 
+communications N 
+communist ADJ N 
+communists N 
+communities N 
+community N 
+commute N 
+commuters N 
+companies N 
+company N 
+company-owned ADJ 
+compaq N 
+comparable ADJ 
+compare V 
+compared V 
+compares V 
+comparison N 
+comparisons N 
+compatible ADJ 
+compensate V 
+compensation N 
+compete V 
+competent ADJ 
+competing ADJ V 
+competition N 
+competitive ADJ 
+competitor N 
+competitors N 
+compiled V 
+complain V 
+complained V 
+complaining V 
+complaint N 
+complaints N 
+complete ADJ V 
+completed V 
+completely ADV 
+completing V 
+completion N 
+complex ADJ N 
+compliance N 
+complicated ADJ PRE V 
+comply V 
+component N 
+components N 
+composite ADJ N 
+compound ADJ N 
+comprehensive ADJ N 
+compromise N V 
+comptroller N 
+computer N 
+computer-driven ADJ 
+computer-guided ADJ 
+computerized ADJ 
+computerizing V 
+computers N 
+computing N V 
+comsat N 
+con ADJ ADV N V 
+conasupo N 
+concede V 
+conceded V 
+concedes V 
+concentrate N V 
+concentrated ADJ V 
+concept N 
+concern N 
+concerned ADJ N V 
+concerning V 
+concerns N V 
+concerto N 
+concessions N 
+conclude V 
+concluded V 
+concludes V 
+conclusion N 
+concord N 
+concrete ADJ N 
+condition N 
+conditions N 
+conduct N V 
+conducted V 
+conducting V 
+conferees N 
+conference N 
+confidence N 
+confident ADJ 
+confidential ADJ 
+confirm V 
+confirmation N 
+confirmed V 
+conflict N 
+conflicts N 
+conform V 
+confrontation N 
+confusion N 
+conglomerate ADJ N 
+congress N 
+congressional ADJ N 
+congressman N 
+congressmen N 
+coniston N 
+conn N 
+conn. N 
+connaught N 
+connected ADJ V 
+connecticut N 
+connection N 
+conner N 
+consecutive ADJ 
+consensus N 
+consent N V 
+consented V 
+consequences N 
+consequently ADV 
+conservative ADJ N 
+conservatorship N 
+consider V 
+considerable ADJ 
+considerably ADV 
+consideration N 
+considerations N 
+considered ADJ V 
+considering V 
+considers V 
+consist V 
+consistently ADV 
+consisting V 
+consists V 
+consolidate V 
+consolidated ADJ N V 
+consolidating V 
+consortium N 
+conspiracy N 
+constant ADJ 
+constantly ADV 
+constituency N 
+constituents N 
+constitute V 
+constitution N 
+constitutional ADJ 
+construction N 
+consultant N 
+consultants N 
+consulting N V 
+consumer N 
+consumers N 
+consumption N 
+contain V 
+contained V 
+containers N 
+containing V 
+contains V 
+contemporary ADJ N 
+contend V 
+contended V 
+contends V 
+content ADJ N V 
+contest N 
+contested V 
+context N 
+continental ADJ N 
+contingent ADJ N 
+continually ADV 
+continue V 
+continued ADJ V 
+continues V 
+continuing ADJ N V 
+contra ADJ N 
+contract N V 
+contracted V 
+contractor N 
+contractors N 
+contracts N V 
+contrary ADJ N 
+contrast N V 
+contribute V 
+contributed V 
+contributing V 
+contribution N 
+contributions N 
+control N V 
+controlled ADJ V 
+controllers N 
+controlling ADJ N V 
+controls N V 
+controversial ADJ 
+controversy N 
+convention N 
+conventional ADJ 
+conversation N 
+conversations N 
+conversion N 
+convert V 
+converted ADJ V 
+converter N 
+convertible ADJ N 
+converting V 
+convex N 
+convicted V 
+conviction N 
+convince V 
+convinced ADJ V 
+convincing ADJ N V 
+conway N 
+cool ADJ N V 
+cooperate V 
+cooperation N 
+coopers N 
+coordinate V 
+coors N 
+cope V 
+copies N 
+copper N 
+copyright N 
+core ADJ N 
+corn N 
+cornell N 
+corner N V 
+corp N 
+corp. N 
+corporate ADJ N 
+corporation N 
+corporations N 
+corps N SYM 
+correct ADJ V 
+correction N 
+corruption N 
+corry N 
+corsica N 
+cos. N 
+cosby N 
+cosmetic ADJ N 
+cosmetics N 
+cost N V 
+cost-cutting ADJ N 
+costa ADJ N 
+costly ADJ 
+costs N V 
+cotton N 
+could V 
+council N 
+counsel N 
+counseling N V 
+count N V 
+counted V 
+counter ADJ ADV N V 
+counterpart N 
+counterparts N 
+counties N 
+counting N V 
+countries N 
+country N 
+counts N V 
+county N 
+coup N 
+couple ADJ N 
+coupled V 
+couples N 
+coupon N 
+coupons N 
+coups N 
+course N 
+courses N 
+court N V 
+courter N 
+courts N V 
+cover N V 
+coverage N 
+covered ADJ V 
+covering N V 
+covers V 
+covert ADJ N 
+cowboys N 
+crack N V 
+cracks N 
+craig N 
+crane N 
+cranston N 
+crash ADJ N V 
+craven N 
+cray N 
+cray-9 N 
+crazy ADJ 
+create V 
+created V 
+creates V 
+creating V 
+creation N 
+creative ADJ N 
+creativity N 
+credentials N 
+credibility N 
+credible ADJ 
+credit N V 
+credit-card N 
+credited V 
+creditor N 
+creditors N 
+credits N V 
+creek N 
+crew N 
+crews N 
+crime N 
+crimes N 
+criminal ADJ N 
+criminals N 
+crisis N 
+criteria N 
+critic N 
+critical ADJ N 
+criticism N 
+criticisms N 
+criticized V 
+critics N 
+crocidolite N 
+crop N V 
+cross ADJ N V 
+crossing V 
+crowd N 
+crowded ADJ V 
+crown N 
+crucial ADJ 
+crude ADJ N 
+cruise N V 
+crumbling V 
+crunch N 
+crusaders N 
+crush N V 
+cruz N 
+cuba N 
+cuban ADJ N 
+cubic ADJ 
+cultural ADJ 
+culture N 
+cumulative ADJ 
+cup N 
+cupertino N 
+curb N V 
+curbs N 
+cure N V 
+currencies N 
+currency N 
+current ADJ N 
+currently ADV N 
+curriculum N 
+curry N V 
+curtail V 
+curve N 
+customer N 
+customers N 
+customs N 
+cut N V 
+cutler N 
+cuts N V 
+cutting N V 
+cycle N 
+cyclical ADJ 
+cypress N 
+czechoslovakia N 
+d N SYM 
+d'arcy N 
+d. N 
+d.c. N 
+d.t. N 
+daf N 
+daily ADJ ADV N 
+daimler-benz N 
+daiwa N 
+dale N 
+dalkon N 
+dallas N 
+daly N 
+dam N 
+damage N V 
+damaged ADJ V 
+damages N V 
+damn ADJ ADV N SYM 
+damp ADJ V 
+dan N 
+danger N 
+dangerous ADJ 
+daniel N 
+dark ADJ N 
+darman N 
+dassault N 
+data N 
+date N V 
+dated ADJ V 
+dates N V 
+david N 
+davis N 
+day N 
+day-to-day ADJ 
+days N 
+dayton N 
+ddb N 
+de ADJ N PRE SYM 
+dead ADJ N V 
+deadline N 
+deal N V 
+dealer N 
+dealers N 
+dealing N V 
+dealings N 
+deals N V 
+dealt V 
+dean N 
+death N 
+deaths N 
+debacle N 
+debate N V 
+debenture N 
+debentures N 
+debris N 
+debt N 
+debts N 
+debut N V 
+dec N 
+dec. N V 
+decade N 
+decades N 
+december N 
+decent ADJ 
+deceptive ADJ 
+decide V 
+decided V 
+decides V 
+deciding V 
+decision N 
+decisions N 
+deck N 
+decker N 
+declaration N 
+declared V 
+declares V 
+decline N V 
+declined V 
+decliners N 
+declines N V 
+declining ADJ V 
+decrease N V 
+decreased V 
+deductibility N 
+deductible ADJ 
+deduction N 
+deductions N 
+deep ADJ ADV N 
+deeper ADJ ADV 
+deeply ADV 
+default N V 
+defaults N 
+defeat N V 
+defeated V 
+defects N 
+defend V 
+defendant N 
+defendants N 
+defended V 
+defense N 
+defensive ADJ N 
+deficit N 
+deficit-reduction ADJ N 
+deficits N 
+defined V 
+definition N 
+definitive ADJ 
+defraud V 
+degree N 
+degrees N 
+del DET N 
+delaware N 
+delay N V 
+delayed V 
+delays N V 
+delegation N 
+delicious ADJ N 
+deliver V 
+delivered V 
+deliveries N 
+delivery N 
+dell N 
+della N 
+delmed N 
+deloitte N 
+delta ADJ N 
+deltec N 
+demand N V 
+demanded V 
+demanding V 
+demands N V 
+democracy N 
+democrat N 
+democratic ADJ N 
+democrats N 
+demonstrators N 
+denied V 
+denies V 
+dennis N 
+denominations N 
+denver N 
+deny V 
+denying V 
+department N 
+departments N 
+departure N 
+departures N 
+depend V 
+dependent ADJ 
+dependents N 
+depending V 
+depends V 
+deposit N V 
+depositary ADJ N 
+depository ADJ N 
+deposits N V 
+depreciation N 
+depress V 
+depressed ADJ V 
+depression N 
+deputy ADJ N 
+deregulation N 
+derivative ADJ N 
+des N SYM 
+describe V 
+described V 
+describes V 
+desert N 
+deserve V 
+design N V 
+designated V 
+designed V 
+designer N 
+designing N V 
+designs N V 
+desirable ADJ 
+desire N V 
+desk N 
+desks N 
+desktop ADJ N 
+desperate ADJ 
+desperately ADV 
+despite PRE 
+destroyed V 
+destruction N 
+detail N 
+detailed ADJ V 
+details N 
+detected V 
+detectors N 
+deteriorated ADJ V 
+deteriorating ADJ V 
+deterioration N 
+determination N 
+determine V 
+determined V 
+detrex N 
+detroit N 
+deukmejian N 
+deutsche N 
+devastating ADJ V 
+devastation N 
+develop V 
+developed ADJ V 
+developer N 
+developers N 
+developing V 
+development N 
+developments N 
+develops V 
+deviation N 
+device N 
+devices N 
+devised V 
+devoe N 
+devoted ADJ V 
+di N SYM 
+dialogue N 
+diamond N 
+diamonds N 
+dick N 
+dictator N 
+did V 
+die N V 
+died V 
+diego ADJ N 
+diet N 
+differ V 
+difference N 
+differences N 
+different ADJ N 
+difficult ADJ 
+difficulties N 
+difficulty N 
+digest N V 
+digital ADJ N 
+dilemma N 
+diluted ADJ V 
+diminished ADJ V 
+dingell N 
+dinkins N 
+dinner N 
+dipped V 
+dire ADJ SYM 
+direct ADJ ADV N V 
+directed V 
+direction N 
+directly ADV 
+director N 
+directories N 
+directors N 
+directs V 
+disabled ADJ V 
+disagree V 
+disappears V 
+disappointed ADJ V 
+disappointing ADJ 
+disappointment N 
+disappointments N 
+disarray N 
+disaster N 
+disasters N 
+discarded V 
+disciplinary ADJ N 
+discipline N 
+disciplined ADJ V 
+disclose V 
+disclosed V 
+disclosure N 
+discontinued ADJ V 
+discount ADJ N V 
+discounted ADJ V 
+discounting N V 
+discounts N 
+discourage V 
+discouraging ADJ V 
+discover N V 
+discovered V 
+discovery N 
+discovision N 
+discrepancies N 
+discretionary ADJ 
+discrimination N 
+discuss V 
+discussed V 
+discussing V 
+discussion N 
+discussions N 
+disease N 
+diseases N 
+disgorge V 
+disgruntled ADJ V 
+dishonesty N 
+disk N 
+dismal ADJ 
+dismissed V 
+disney N 
+disorders N 
+dispatched V 
+display N V 
+displays N 
+disposable ADJ 
+disproportionate ADJ 
+dispute N V 
+disputed ADJ V 
+disputes N V 
+disrupt V 
+disrupted V 
+disruption N 
+disruptions N 
+dissident ADJ N 
+distance N V 
+distinct ADJ 
+distorted ADJ V 
+distressed ADJ 
+distribute V 
+distributed V 
+distributes V 
+distribution N 
+distributor N 
+distributors N 
+district ADJ N 
+districts N 
+disturbing ADJ 
+dive N 
+diverse ADJ 
+diversification N 
+diversified ADJ V 
+diversify V 
+diversifying V 
+diverted V 
+divided V 
+dividend N 
+dividends N 
+division N 
+divisions N 
+dlj N 
+do V 
+doctor N 
+doctors N 
+document N V 
+documents N 
+dodd N 
+dodge N V 
+does N V 
+dog N 
+dogs N V 
+doing V 
+dollar N 
+dollars N 
+doman N 
+domestic ADJ N 
+dominant ADJ 
+dominated V 
+domination N 
+don N 
+donald N 
+donaldson N 
+donated V 
+donations N 
+done V 
+donoghue N 
+donuts N 
+door N 
+doors N 
+dorrance N 
+double ADJ ADV V 
+double-a ADJ N 
+double-digit ADJ 
+doubled V 
+doubling N V 
+doubt ADV N V 
+doubts N V 
+douglas N 
+dow N 
+down ADJ ADV N PRE V 
+downey N 
+downgraded V 
+downtown ADJ N 
+downturn N 
+downward ADJ ADV 
+dozen N 
+dozens N 
+dr. N 
+draft N 
+drafted V 
+drag N V 
+drain N V 
+drama N 
+dramatic ADJ 
+dramatically ADV 
+drams N 
+draw N V 
+drawbacks N 
+drawing N V 
+drawn V 
+dream N V 
+dress N V 
+drew N V 
+drexel N 
+dreyfus N 
+drifted V 
+drink N V 
+drinking N V 
+drinks N 
+driscoll N 
+drive N V 
+driven ADJ V 
+drivers N 
+drives N V 
+driving N V 
+drop N V 
+dropped V 
+dropping V 
+drops N V 
+drought N 
+drove V 
+drug N 
+drug-related ADJ 
+drugs N 
+dry ADJ N V 
+du N 
+dubbed V 
+dubious ADJ 
+duck N 
+ducks N V 
+due ADJ ADV N 
+due-process N 
+dump N V 
+dumped V 
+dun N 
+dunkin N 
+durable ADJ 
+during PRE 
+durkin N 
+dust N 
+dutch ADJ N 
+duties N 
+duty N 
+duty-free ADJ 
+dwellings N 
+dying V 
+dynamic ADJ 
+dynamics N 
+e-mail N 
+e. N 
+each DET 
+eager ADJ 
+eagle N 
+earlier ADJ ADV N 
+earliest ADJ 
+early ADJ ADV N 
+earmarked V 
+earn V 
+earned V 
+earning N V 
+earnings N 
+earns V 
+earth N 
+earthquake N 
+earthquake-related ADJ 
+earthquakes N 
+ease N V 
+eased V 
+easier ADJ ADV 
+easily ADV 
+easing N V 
+east ADJ ADV N 
+eastern ADJ N 
+eastman N 
+easy ADJ ADV 
+eat V 
+eating N V 
+eaton N 
+ec N 
+ecological ADJ N 
+economic ADJ N 
+economically ADV 
+economics N 
+economies N 
+economist N 
+economists N 
+economy N 
+ed N 
+eddington N 
+edgar N 
+edge N V 
+edged V 
+edison N 
+edition N 
+editions N 
+editor N 
+editorial ADJ N 
+editors N 
+edt N 
+education N 
+educational ADJ 
+educators N 
+edward N 
+edwards N 
+effect N V 
+effective ADJ N 
+effectively ADV 
+effects N V 
+efficiency N 
+efficient ADJ 
+effort N 
+efforts N 
+egg N 
+eggs N 
+egon N 
+eight N 
+einhorn N 
+either ADV CONJ DET N 
+ekco N 
+el N 
+elaborate ADJ V 
+elderly ADJ 
+elected ADJ V 
+election N 
+elections N 
+electoral ADJ 
+electric ADJ N 
+electrical ADJ 
+electricity N 
+electronic ADJ N 
+electronics N 
+element N 
+elements N 
+eligible ADJ N 
+eliminate V 
+eliminated V 
+eliminating V 
+elimination N 
+elizabeth N 
+ellis N 
+else ADJ ADV N 
+elsewhere ADV N 
+embarrassing ADJ V 
+embarrassment N 
+embassy N 
+embraced V 
+embryo N 
+emerge V 
+emerged V 
+emergency N 
+emerging N V 
+emerson N 
+emissions N 
+emotional ADJ 
+emphasis N 
+empire N 
+employed V 
+employee N 
+employees N V 
+employer N 
+employers N 
+employment N 
+employs V 
+empty ADJ V 
+enable V 
+enabled V 
+enabling V 
+enact V 
+enacted V 
+encountered V 
+encourage V 
+encouraged ADJ V 
+encouraging ADJ V 
+end N V 
+ended V 
+ending N V 
+endless ADJ 
+endorsed V 
+ends N V 
+endure V 
+energetic ADJ 
+energy N 
+enforce V 
+enforcement N 
+enforcers N 
+engage V 
+engaged V 
+engaging ADJ V 
+engine N 
+engineer N V 
+engineered ADJ N V 
+engineering N V 
+engineers N 
+engines N 
+england N 
+english ADJ N 
+enhanced ADJ V 
+enhancements N 
+enjoy V 
+enjoyed V 
+enormous ADJ 
+enough ADJ ADV N 
+enron N 
+enserch N 
+ensure V 
+enter V 
+entered V 
+entering V 
+enterprise N 
+enterprises N 
+enters V 
+entertainment N 
+entire ADJ N 
+entirely ADV 
+entities N 
+entitled V 
+entity N 
+entrenched ADJ V 
+entrepreneur N 
+entrepreneurs N 
+entry N 
+environment N 
+environmental ADJ N 
+environmentalists N 
+enviropact N 
+epicenter N 
+episodes N 
+equal ADJ V 
+equaling V 
+equally ADV 
+equipment N 
+equipped V 
+equitec N 
+equities N 
+equity N 
+equity-purchase ADJ 
+equivalent ADJ N 
+equivalents N 
+era N 
+erased V 
+eric N 
+ernest N 
+eroded V 
+erosion N 
+error N 
+errors N 
+esb N 
+escape N V 
+escaped V 
+escrow N 
+especially ADV 
+espn N 
+esselte N 
+essential ADJ 
+essentially ADV 
+esso N 
+establish V 
+established ADJ V 
+establishing V 
+establishment N 
+estate N 
+estimate N V 
+estimated ADJ V 
+estimates N V 
+ethical ADJ 
+ethics N 
+ethiopia N 
+eugene N 
+euro N 
+eurocom N 
+eurodollars N 
+europe N 
+european ADJ N 
+evaluate V 
+evaluating V 
+evaluation N 
+evans N 
+even ADJ ADV V 
+evening N 
+evenly ADV 
+event N 
+events N 
+eventual ADJ 
+eventually ADV 
+ever ADV 
+every DET 
+everybody N 
+everyday ADJ 
+everyone N 
+everything N 
+evidence N 
+evident ADJ 
+evolution N 
+exact ADJ 
+exactly ADV 
+examination N 
+example N 
+exceed V 
+exceeded V 
+exceeding V 
+excellent ADJ 
+except PRE V 
+exception N 
+exceptionally ADV 
+excess ADJ N 
+excessive ADJ 
+exchange N V 
+exchanges N 
+exchequer N 
+exciting ADJ 
+exclude V 
+excluding V 
+exclusion N 
+exclusive ADJ 
+excuse N V 
+execute V 
+executed V 
+execution N 
+executive ADJ N 
+executives N 
+exempt ADJ V 
+exemption N 
+exercisable ADJ 
+exercise N V 
+exercised V 
+exhibition N 
+exist V 
+existed V 
+existence N 
+existing ADJ V 
+exists V 
+exodus N 
+exotic ADJ 
+expand V 
+expanded V 
+expanding V 
+expansion N 
+expect PRE V 
+expectation N 
+expectations N 
+expected ADJ V 
+expecting V 
+expects N V 
+expenditure N 
+expenditures N 
+expense N 
+expenses N 
+expensive ADJ 
+experience N V 
+experienced ADJ V 
+experiment N 
+experimental ADJ 
+experiments N 
+expert ADJ N 
+expertise N 
+experts N 
+expiration N 
+expire V 
+expired V 
+expires V 
+explain V 
+explained V 
+explaining V 
+explains V 
+explanation N 
+exploit V 
+exploration N 
+explore V 
+exploring V 
+explosion N 
+explosions N 
+export N V 
+exporting N V 
+exports N V 
+exposed V 
+exposure N 
+express ADJ N V 
+expressed V 
+extend V 
+extended ADJ V 
+extension N 
+extensive ADJ 
+extent N 
+external ADJ N 
+extra ADJ 
+extraordinary ADJ 
+extremely ADV 
+exxon N 
+eye N 
+eyes N 
+f-99 N 
+f. N 
+fabric N 
+face ADJ N V 
+faced V 
+faces N V 
+facilities N 
+facility N 
+facing V 
+facsimile ADJ N 
+fact N 
+factor N V 
+factories N 
+factors N V 
+factory N 
+facts N 
+faculty N 
+faded V 
+fail V 
+failed ADJ V 
+failing V 
+fails V 
+failure N 
+failures N 
+fair ADJ N 
+fairly ADV 
+fairness N 
+faith N 
+falcon N 
+falconbridge N 
+fall N V 
+fallen ADJ V 
+falling V 
+fallout N 
+falls N V 
+false ADJ 
+fame N 
+familiar ADJ 
+families N 
+family N 
+famous ADJ N 
+fancy ADJ N 
+fannie N 
+fans N 
+fantasy N 
+far ADJ ADV N PRE 
+fare N V 
+fared V 
+fares N 
+fargo N 
+farm N 
+farmer N 
+farmers N 
+farms N V 
+fashion N 
+fast ADJ ADV 
+fast-food ADJ N 
+faster ADJ ADV 
+fastest-growing ADJ 
+fat ADJ N 
+fate N 
+father N 
+fault N 
+favor N V 
+favorable ADJ 
+favored ADJ V 
+favorite ADJ N 
+favors V 
+fax N 
+fazio N 
+fbi N 
+fda N 
+fe N 
+fear N V 
+feared V 
+fearful ADJ 
+fears N V 
+feature N V 
+featured V 
+features N V 
+featuring V 
+feb. N 
+february N 
+fed N V 
+federal ADJ N 
+federally ADV 
+federated N 
+fee N 
+feed N V 
+feedlots N 
+feel N V 
+feeling N V 
+feelings N 
+feels V 
+fees N 
+feet N 
+fell ADJ N V 
+fellow ADJ N 
+felony N 
+felt V 
+fema N 
+female ADJ N 
+femina N 
+fend V 
+ferguson N 
+fernandez N 
+ferranti N 
+ferroelectric ADJ 
+fertilizer N 
+festival N 
+fetal-tissue ADJ 
+fetch V 
+few ADJ 
+fewer ADJ ADV 
+fha N 
+fiat N 
+fibers N 
+fidelity N 
+field N V 
+fields N 
+fierce ADJ 
+fiercely ADV 
+fifth ADJ ADV N 
+fight N V 
+fighter N 
+fighting N V 
+figure N V 
+figured V 
+figures N V 
+figuring V 
+file N V 
+filed V 
+filenet N 
+files N V 
+filing N V 
+filings N 
+fill N V 
+filled V 
+filling V 
+film N 
+films N 
+filters N V 
+final ADJ 
+finally ADV 
+finance N V 
+financed V 
+finances N 
+financial ADJ N 
+financial-services ADJ N 
+financially ADV 
+financier N 
+financiere N 
+financing N V 
+find V 
+finding N V 
+findings N 
+finds V 
+fine ADJ ADV N 
+fined V 
+fines N 
+finish N V 
+finished ADJ V 
+finishing ADJ V 
+finland N 
+fire N V 
+fired V 
+fireman N 
+fires N V 
+firm ADJ N 
+firmer ADJ 
+firmly ADV 
+firms N 
+first ADJ ADV N SYM 
+first-quarter ADJ N 
+firstsouth N 
+fiscal ADJ N 
+fish ADV N 
+fisher N 
+fishing N 
+fit ADJ N V 
+fits N V 
+fitzwater N 
+five N 
+five-cent ADJ 
+five-year ADJ 
+fix N V 
+fixed ADJ V 
+fixed-income ADJ N 
+fixed-rate ADJ 
+fk-999 N 
+fla N 
+fla. N 
+flag N 
+flagship ADJ N 
+flat ADJ ADV 
+fled V 
+fledgling ADJ N 
+fleet N 
+fleets N 
+fleischmann N 
+flesh N 
+flew V 
+flexibility N 
+flexible ADJ N 
+flight N 
+flights N 
+flood N 
+floor N 
+floors N 
+florida N 
+florio N 
+flow N V 
+flowing ADJ V 
+flows N V 
+fluctuations N 
+fluid ADJ N 
+flurry N 
+fly N V 
+flying N V 
+foam N 
+focus N V 
+focused ADJ V 
+focusing V 
+foes N 
+foley N 
+folks N 
+follow V 
+followed ADJ V 
+following ADJ N V 
+follows V 
+food N 
+foods N 
+foot N V 
+football N 
+for ADV PRE 
+force N V 
+forced ADJ V 
+forces N V 
+forcing ADJ V 
+ford N 
+forecast N V 
+forecasting N V 
+forecasts N V 
+foreclosed ADJ V 
+foreign ADJ N 
+foreign-exchange ADJ N 
+foreigners N 
+foreseeable ADJ 
+forest N 
+forever ADV 
+forfeiture N 
+forget V 
+forgotten V 
+form N V 
+formal ADJ 
+formally ADV 
+formation N 
+formed ADJ V 
+former ADJ N 
+formerly ADV 
+forms N V 
+formula N 
+fort N 
+forth ADV 
+fortunately ADV 
+fortune N 
+fortunes N 
+forward ADJ ADV 
+fossil ADJ N 
+foster ADJ N V 
+fought V 
+found V 
+foundation N 
+founded V 
+founder N 
+founding ADJ N V 
+four N 
+four-day ADJ 
+four-year ADJ 
+four-year-old ADJ 
+fourth ADJ ADV 
+fourth-quarter ADJ 
+fox N 
+fraction N 
+fragile ADJ 
+franc N 
+france N 
+franchise N V 
+franchisee N 
+franchisees N 
+franchisers N 
+francis N 
+francisco N 
+franco N 
+francs N 
+frank ADJ N 
+frankfurt N 
+franklin N 
+fraud N 
+fraudulent ADJ 
+freddie N 
+frederick N 
+free ADJ ADV N V 
+free-lance ADJ 
+free-market ADJ 
+freedom N 
+freely ADV 
+freeman N 
+freeway N 
+freeways N 
+freight N V 
+freind N 
+french ADJ N 
+frenzy N 
+frequent ADJ 
+frequently ADV 
+fresenius N 
+fresh ADJ 
+friday N 
+fried N 
+friend N 
+friendly ADJ 
+friends N 
+friendship N 
+from PRE 
+front ADJ ADV N 
+fronts N 
+fruit N 
+frustration N 
+ft-se N 
+ftc N 
+fuel N V 
+fueled V 
+fuji N 
+fujis N 
+fujisawa N 
+fujitsu N 
+full ADJ ADV 
+full-year ADJ 
+fully ADV 
+fulton N 
+fun N 
+function N 
+functions N 
+fund N V 
+fund-raising ADJ N 
+fundamental ADJ 
+fundamentals N 
+funded ADJ V 
+funding N V 
+funds N V 
+funny ADJ N 
+fur N 
+furniture N 
+furriers N 
+furs N 
+further ADJ ADV V 
+furthermore ADV 
+fusion N 
+future ADJ N 
+futures N 
+futures-related ADJ 
+g. N 
+ga. N 
+gaf N 
+gain N V 
+gained V 
+gainers N 
+gaining N V 
+gains N V 
+galileo N 
+gallery N 
+galvanized ADJ 
+gamble N V 
+game N 
+games N 
+gangs N 
+gap N 
+garbage N 
+garcia N 
+garden N 
+gargan N 
+garratt N 
+garrison N 
+gary N 
+gas N 
+gasoline N 
+gate N 
+gates N 
+gathered V 
+gathering N V 
+gatt N 
+gaubert N 
+gauge N V 
+gave V 
+ge N 
+gear N 
+gelbart N 
+gen. N 
+gene N 
+genentech N 
+general ADJ N 
+generale N 
+generally ADV 
+generate V 
+generated V 
+generates V 
+generating N V 
+generation N 
+generations N 
+generous ADJ 
+genetic ADJ 
+geneva N 
+genuine ADJ 
+geography N 
+george N 
+georgia N 
+georgia-pacific N 
+gerald N 
+gerard N 
+german ADJ N 
+germans N 
+germany N 
+gerrymandering N 
+get V 
+gets V 
+getting V 
+giant ADJ N 
+giants N 
+gift N 
+gillett N 
+gillette N 
+gin N 
+ginnie N 
+gintel N 
+girl N 
+giuliani N 
+give V 
+given ADJ V 
+gives V 
+giving V 
+glare N 
+glasnost N SYM 
+glass N 
+glazer N 
+glenn N 
+global ADJ N 
+globe N 
+glory N 
+gm N 
+gnp N 
+go N V 
+goal N 
+goals N 
+god N 
+goes V 
+going N V 
+gold ADJ N 
+goldberg N 
+golden ADJ N 
+goldman N 
+goldsmith N 
+golf N 
+gone V 
+gonzalez N 
+good ADJ ADV N 
+goodman N 
+goods N 
+goodson N 
+goodyear N V 
+gop N 
+gorbachev N 
+gordon N 
+gorky N 
+got N V 
+gotten V 
+gould N 
+goupil N 
+gov. N 
+govern V 
+governing N V 
+government N 
+governments N 
+governor N 
+governors N 
+grabbed V 
+grace N 
+grade N 
+gradual ADJ 
+gradually ADV 
+graduate ADJ N 
+grain N 
+gramm-rudman N 
+grand ADJ N 
+granite N 
+grant N V 
+granted ADJ V 
+grants N V 
+graphics N 
+grave ADJ N 
+gray ADJ N 
+great ADJ N 
+greater ADJ N 
+greatest ADJ 
+greatly ADV 
+greece N 
+green ADJ N 
+greenberg N 
+greenmail N 
+greenspan N 
+greenville N 
+greenwich N 
+grenfell N 
+grew V 
+grey N 
+gridlock N 
+grim ADJ 
+grocery N 
+gross ADJ N 
+ground ADJ N V 
+grounds N 
+group N 
+groups N 
+grow V 
+grower N 
+growers N 
+growing ADJ V 
+grown V 
+grows V 
+growth N V 
+gruberova N 
+grumman N 
+gte N 
+guarantee N V 
+guaranteed ADJ V 
+guaranteeing N V 
+guarantees N V 
+guard N 
+guardian N 
+guards N 
+guber N 
+gubernatorial ADJ 
+guerrillas N 
+guess N V 
+guest ADJ N 
+guests N 
+guide N V 
+guideline N 
+guidelines N 
+guild N 
+guilty ADJ ADV 
+guinness N 
+gulf N 
+gum N 
+gutfreund N 
+guy N 
+guys N 
+guzman N 
+gyrations N 
+h&r N 
+h. N 
+h.f. N 
+h.h. N 
+had V 
+hair N 
+half ADJ ADV DET N 
+half-hour ADJ N 
+hall N 
+hallwood N 
+halt N V 
+halted N V 
+hambrecht N 
+hammond N 
+hampered V 
+hampshire N 
+hand N V 
+handed V 
+handful N 
+handle V 
+handled V 
+handling N V 
+hands N V 
+handy ADJ 
+hanging N V 
+hanover N 
+hanson N 
+happen V 
+happened V 
+happening N V 
+happens V 
+happy ADJ 
+harbor N 
+harbors N V 
+hard ADJ ADV 
+hard-disk ADJ N 
+harder ADJ ADV 
+hardest ADJ ADV 
+hardly ADV 
+hardware N 
+harm N V 
+harold N 
+harris N 
+harry N 
+harsh ADJ 
+hart N 
+hartford N 
+harvard N 
+harvest N V 
+has V 
+hasbro N 
+haskins N 
+hastings N 
+hat N 
+hate N V 
+hats N 
+haul N V 
+have N V 
+haven N 
+having V 
+hawaii N 
+hazardous ADJ 
+hbo N 
+hdtv N 
+he N 
+head ADJ N V 
+headed V 
+heading V 
+headquarters N 
+heads N V 
+health N 
+health-care ADJ N 
+healthvest N 
+healthy ADJ 
+hear V 
+heard V 
+hearing N V 
+hearings N 
+heart ADV N 
+heat N V 
+heating N V 
+heavier ADJ 
+heavily ADV 
+heavy ADJ N 
+hedge N V 
+hedges N 
+heels N 
+hefty ADJ 
+heightened ADJ V 
+heights N 
+heir N 
+held ADJ V 
+hell N 
+helmsley N 
+helmut N 
+help N V 
+helped V 
+helpful ADJ 
+helping V 
+helps V 
+hence ADV 
+henry N 
+hepatitis N 
+her N 
+herbert N 
+here ADV 
+heritage N 
+herself N 
+hess N 
+hewlett-packard N 
+hhs N 
+hidden ADJ V 
+hide V 
+high ADJ ADV N 
+high-definition ADJ N 
+high-end ADJ 
+high-grade ADJ 
+high-priced ADJ 
+high-quality ADJ 
+high-risk ADJ 
+high-tech ADJ 
+high-yield ADJ 
+higher ADJ ADV N 
+highest ADJ ADV 
+highlight V 
+highly ADV N 
+highs N 
+highway N 
+highways N 
+hill N 
+hills N 
+him N 
+himself N 
+hint N V 
+hire V 
+hired V 
+hiring N V 
+his N 
+hispanic ADJ 
+hispanics N 
+historic ADJ 
+historical ADJ 
+historically ADV N 
+history N 
+hit N V 
+hitachi N 
+hits N V 
+hoelzer N 
+hold N V 
+holder N 
+holders N 
+holding N V 
+holdings N 
+holds V 
+hole N 
+holiday N 
+holidays N 
+hollywood N 
+holmes N 
+home ADV N 
+homefed N V 
+homeless ADJ 
+homeowners N 
+homes N 
+homosexual ADJ N 
+honda N 
+honecker N 
+honest ADJ 
+honeywell N 
+hong N 
+honor N V 
+hook N 
+hope N V 
+hoped V 
+hopeful ADJ N 
+hopefully ADV 
+hopes N V 
+hoping V 
+horizon N 
+horrible ADJ 
+horse N 
+horses N 
+hospital N 
+hospitals N 
+host N 
+hostile ADJ N 
+hot ADJ N 
+hot-dipped ADJ 
+hotel N 
+hotels N 
+hottest ADJ 
+hour N 
+hourly ADJ 
+hours N 
+house N V 
+house-passed ADJ 
+house-senate ADJ N 
+household N 
+households N 
+houses N V 
+housing N 
+houston ADJ N 
+how ADV 
+howard ADV N 
+however ADV 
+hud N 
+hudson N 
+huge ADJ 
+hughes N 
+hugo N 
+human ADJ N 
+humans N 
+hundred N 
+hundreds N 
+hungary ADJ N 
+hunt N 
+hunting N 
+hurdles N 
+hurricane N 
+hurry N V 
+hurt N V 
+hurting V 
+husband N 
+hutchinson N 
+hutton N 
+hydrogen N 
+hypercard N 
+i N SYM 
+i. N 
+iafp N 
+ibm N 
+icahn N 
+ice N 
+idea N 
+ideal ADJ N 
+ideas N 
+identified V 
+identify V 
+ideological ADJ 
+idle ADJ V 
+if ADJ PRE 
+ignore V 
+ignored V 
+ignoring V 
+ii N 
+iii N 
+ill ADJ ADV N 
+ill. N 
+illegal ADJ 
+illegally ADV 
+illinois N 
+illuminating N 
+illustrated N V 
+illustrates V 
+illustration N 
+ima N 
+image N 
+images N 
+imagine V 
+imbalances N 
+immediate ADJ 
+immediately ADV 
+imminent ADJ 
+immune ADJ N 
+immunex N 
+imo N 
+impact N 
+impeachment N 
+impending ADJ V 
+imperial ADJ N 
+implemented V 
+implication N 
+implications N 
+implies V 
+import N V 
+importance N 
+important ADJ 
+imported ADJ N V 
+importer N 
+importing V 
+imports N V 
+impose V 
+imposed V 
+imposes V 
+imposing V 
+impossible ADJ 
+impressed ADJ V 
+impression N 
+impressive ADJ 
+improper ADJ 
+improperly ADV 
+improve V 
+improved ADJ V 
+improvement N 
+improvements N 
+improves V 
+improving N V 
+in ADV N PRE SYM 
+inadequate ADJ 
+inappropriate ADJ 
+inc N 
+inc. N 
+incentive N 
+incentives N 
+incest N 
+inched V 
+inches N 
+incident N 
+incidents N 
+incinerator N 
+inclined ADJ V 
+include V 
+included ADJ V 
+includes V 
+including PRE V 
+inco N 
+income N 
+income-tax N 
+incompetence N 
+incompetent ADJ 
+incomplete ADJ 
+incorrect ADJ 
+incorrectly ADV 
+increase N V 
+increased ADJ V 
+increases N V 
+increasing ADJ V 
+increasingly ADV 
+incurred V 
+indeed ADV SYM 
+independence N 
+independent ADJ N 
+index N 
+indexes N 
+indexing N 
+india N 
+indian ADJ N 
+indiana N 
+indianapolis N 
+indicate V 
+indicated ADJ V 
+indicates V 
+indicating V 
+indication N 
+indications N 
+indicator N 
+indicators N 
+indicted V 
+indictment N 
+indirect ADJ 
+indirectly ADV 
+individual ADJ N 
+individuals N 
+industrial ADJ N 
+industrialized ADJ V 
+industrials N V 
+industries N 
+industry N 
+industrywide ADJ ADV 
+inevitably ADV 
+infected ADJ V 
+inflation N 
+inflation-adjusted ADJ N 
+influence N V 
+influenced N V 
+influential ADJ 
+information N 
+informed ADJ V 
+infrastructure N 
+ingersoll N 
+initial ADJ N 
+initially ADV 
+initiated V 
+initiative N 
+injunction N 
+injured ADJ V 
+injuries N 
+injury N 
+ink N 
+inland ADV N 
+inner ADJ N 
+inner-city ADJ N 
+innocent ADJ 
+inquiries N 
+inquiry N 
+inside ADJ ADV N PRE 
+insider N 
+insiders N 
+insist V 
+insisted V 
+insistence N 
+insisting V 
+insists V 
+insolvent ADJ 
+inspectors N V 
+inspired V 
+install V 
+installation N 
+installations N 
+installed ADJ V 
+installing V 
+installment ADJ N 
+instance N 
+instant ADJ N 
+instantly ADV 
+instead ADV 
+institute N V 
+institutes N 
+institution N 
+institutional ADJ 
+institutions N 
+instruction N 
+instructions N 
+instrument N 
+instruments N 
+insurance N 
+insured ADJ N V 
+insurer N 
+insurers N 
+intact ADJ 
+integrate V 
+integrated ADJ N V 
+integration N 
+integrity N 
+intel N 
+intellectual ADJ N 
+intellectual-property ADJ 
+intelligence N 
+intend V 
+intended ADJ V 
+intends V 
+intense ADJ 
+intensify V 
+intensity N 
+intent ADJ N 
+intention N 
+intentions N 
+interbank ADJ N 
+interest N V 
+interest-rate ADJ N 
+interested ADJ V 
+interesting ADJ 
+interests N V 
+intergroup N 
+interim ADJ N 
+intermediate ADJ N 
+internal ADJ N 
+international ADJ N 
+internationally ADV 
+interpret V 
+interpretation N 
+interpreted V 
+interpublic N 
+interstate ADJ N 
+interview N V 
+interviewed V 
+interviews N 
+intimate ADJ V 
+into PRE 
+intraday ADJ N 
+introduce V 
+introduced V 
+introducing V 
+introduction N 
+invented V 
+inventories N 
+inventory N 
+invest N V 
+invested V 
+investigate V 
+investigating V 
+investigation N 
+investigations N 
+investigators N 
+investing N V 
+investment N 
+investment-grade ADJ 
+investments N 
+investor N 
+investors N 
+invited V 
+involve V 
+involved ADJ V 
+involvement N 
+involves V 
+involving V 
+iowa N 
+iran N 
+iran-contra N 
+iranian ADJ N 
+iras N 
+ireland N 
+iron N 
+ironically ADV N 
+irony N 
+irs N 
+is N V 
+island N 
+islands N V 
+isler N 
+isolated V 
+israel N 
+israeli ADJ N 
+issuance N 
+issue N V 
+issued ADJ V 
+issuer N 
+issuers N 
+issues N V 
+issuing N V 
+it N 
+italian ADJ N 
+italy N 
+items N 
+its N 
+itself N 
+itt N 
+ivan N 
+ivory N 
+j. N 
+jack N V 
+jackets N 
+jackson N 
+jacobs N 
+jacobson N 
+jaguar N 
+jail N 
+jailed V 
+jal N 
+jamaica N 
+james N 
+jan. N V 
+january N 
+japan N 
+japanese ADJ N 
+jay N 
+jeep N 
+jeff N 
+jefferies N 
+jefferson N 
+jeffrey N 
+jenrette N 
+jerell N 
+jerry N 
+jersey N 
+jet N V 
+jewish ADJ 
+jim N 
+joan N 
+job N 
+jobs N 
+joe N 
+joel N 
+john N 
+johnson N 
+join V 
+joined V 
+joining V 
+joint ADJ N 
+joint-venture ADJ N 
+jointly ADV 
+jokes N V 
+jon N 
+jonathan N 
+jones N 
+jose N 
+joseph N 
+journal N 
+journalists N 
+jr N 
+jr. N 
+jsp N 
+judge N V 
+judges N 
+judging V 
+judgment N 
+judgments N 
+judicial ADJ N 
+judiciary N 
+july N 
+jump N V 
+jumped V 
+jumping V 
+june N 
+junk N 
+junk-bond ADJ N 
+junk-holders N 
+jupiter N 
+jurors N 
+jury N 
+just ADJ ADV 
+justice ADJ N 
+justified ADJ V 
+justify V 
+k. N 
+kageyama N 
+kaiser N 
+kane N 
+kansas N 
+kasparov N 
+katz N 
+katzenstein N 
+kean N 
+keating N 
+keep V 
+keeping V 
+keeps V 
+keith N 
+kelly N 
+kemp N 
+kemper N 
+kennedy N 
+kenneth N 
+kent N 
+kentucky N 
+kept V 
+key ADJ N V 
+khmer N 
+kick N V 
+kicked V 
+kidder N 
+kidney N 
+kids N 
+kill N V 
+killed V 
+killing N V 
+killings N 
+kim N 
+kind ADJ ADV N 
+kinds N 
+king N 
+kingdom N 
+kitchen N 
+kkr N 
+kleinwort N 
+knew V 
+knight N 
+knocked V 
+knocking V 
+know N V 
+knowing V 
+knowledge N 
+known ADJ V 
+knows V 
+kodak N 
+koenig N 
+kohl N 
+kong N 
+korea N 
+korean ADJ N 
+kraft N 
+krasnoyarsk N 
+kravis N 
+krenz N 
+kuala N 
+kurzweil N 
+kuwait N 
+ky. N 
+l. N 
+la DET N SYM 
+laband N 
+label N V 
+labor N 
+labor-management ADJ N 
+laboratories N 
+laboratory N 
+lack N V 
+lacked V 
+lacking V 
+lackluster ADJ ADV N 
+lacks V 
+lady N 
+laff N 
+lagging N V 
+lake N 
+lambert N 
+land N V 
+landed V 
+landfill N 
+landing N V 
+landmark ADJ N 
+landry N 
+lane N 
+lang N 
+language N 
+laptop ADJ N 
+large ADJ 
+largely ADV 
+larger ADJ 
+largest ADJ 
+larry N 
+las N 
+laser N 
+last ADJ ADV N V 
+lasted V 
+late ADJ ADV 
+lately ADV 
+later ADJ ADV 
+latest ADJ 
+latin ADJ N 
+latter ADJ N 
+lauder N 
+launch N V 
+launched V 
+launching N V 
+laurence N 
+lavelle N 
+law N 
+law-enforcement ADJ N 
+lawmakers N 
+lawn N 
+lawrence N 
+laws N 
+lawson N 
+lawsuit N 
+lawsuits N 
+lawyer N 
+lawyers N 
+lay V 
+layer N 
+lazard N 
+lbo N 
+lbos N 
+ldp N 
+lead ADJ N V 
+leader N 
+leaders N 
+leadership N 
+leading ADJ V 
+leads N V 
+league N 
+lean ADJ V 
+leaning N V 
+leap N 
+learn V 
+learned V 
+learning N V 
+lease N V 
+leases N V 
+leasing N V 
+least ADJ ADV 
+leave N V 
+leaves N V 
+leaving N V 
+lebanon N 
+led V 
+lee N 
+left ADJ ADV N V 
+leg N 
+legal ADJ N 
+legendary ADJ 
+legent N 
+legislation N 
+legislative ADJ 
+legislator N 
+legislators N 
+legislature N 
+legislatures N 
+legitimate ADJ 
+lehman N 
+leisure N 
+lend V 
+lender N 
+lenders N 
+lending ADJ N V 
+lengthy ADJ 
+lent V 
+leo N 
+lesk N 
+lesko N 
+less ADJ ADV CONJ 
+less-developed ADJ 
+lesser ADJ 
+lesson N 
+let V 
+letter N 
+letters N 
+letting V 
+level ADJ N 
+levels N 
+leverage N 
+leveraged ADJ V 
+levine N 
+levy N V 
+lewis N 
+lexington N 
+liabilities N 
+liability N 
+liable ADJ 
+libel N 
+liberal ADJ N 
+liberation N 
+libor N 
+library N 
+license N V 
+licensed ADJ V 
+licenses N V 
+licensing N V 
+lie N V 
+lies V 
+life N 
+life-insurance N 
+lift N V 
+lifted V 
+light ADJ N V 
+lights N 
+like ADJ PRE V 
+likelihood N 
+likely ADJ ADV 
+likes N V 
+likewise ADV 
+lilly ADV N 
+limit N V 
+limited ADJ N V 
+limiting V 
+limits N V 
+lin N 
+lincoln N 
+line N V 
+line-item ADJ 
+lined V 
+lines N 
+lineup N 
+link N V 
+linked V 
+links N 
+lion N 
+lionel N 
+lippens N 
+lipper N 
+lipton N 
+liquid ADJ N 
+liquidated V 
+liquidation N 
+liquidity N 
+liquor N 
+lire N 
+list N V 
+listed ADJ V 
+listen V 
+listening V 
+listing N V 
+lists N V 
+literally ADV 
+literary ADJ N 
+literature N 
+litigation N 
+little ADJ ADV N 
+live ADJ V 
+lived V 
+lives N V 
+living ADJ N V 
+lloyd N 
+load N V 
+loan N 
+loan-loss ADJ N 
+loans N V 
+lobby N 
+lobbying N V 
+lobbyist N 
+lobbyists N 
+local ADJ N 
+locally ADV 
+located ADJ V 
+location N 
+locations N 
+lock N V 
+locked V 
+lockheed N 
+logic N 
+london ADJ N 
+london-based ADJ 
+lone ADJ N 
+long ADJ ADV N 
+long-distance ADJ N 
+long-term ADJ ADV N 
+longer ADJ ADV 
+longstanding ADJ 
+longtime ADJ N 
+lonrho N 
+look N V 
+looked V 
+looking V 
+looks N V 
+loose ADJ ADV N 
+loral N 
+lord N 
+lorillard N 
+lorin N 
+lortie N 
+los N 
+lose V 
+losers N 
+loses V 
+losing ADJ N V 
+loss N 
+losses N 
+lost ADJ V 
+lot ADV N 
+lots N 
+lotus N 
+louis N 
+louisiana N 
+louisville N 
+love N V 
+loved V 
+low ADJ ADV N 
+low-cost ADJ 
+lowe N 
+lowell N 
+lower ADJ ADV N V 
+lowered V 
+lowering V 
+lowest ADJ 
+loyal ADJ 
+loyalty N 
+lsi N 
+ltd N 
+ltd. N 
+luck N 
+lucky ADJ 
+lucrative ADJ 
+lufkin N 
+lufthansa N 
+lumpur N 
+lunch N V 
+lure N V 
+luxury N 
+luxury-car N 
+lying V 
+lynch N 
+lynn N 
+lyondell N 
+m$ $ 
+m. N 
+mac N 
+macdonald N 
+machine N 
+machinery N 
+machines N 
+machinists N 
+macmillan N 
+made V 
+madison N 
+madrid N 
+mae N 
+magazine N 
+magazines N 
+magna N 
+magnetic ADJ 
+magnitude N 
+maidenform N 
+mail N V 
+main ADJ N 
+maine N 
+mainframe ADJ N 
+mainframes N 
+mainly ADV 
+mainstay ADJ N 
+mainstream N 
+maintain V 
+maintained V 
+maintaining V 
+maintains V 
+maintenance N 
+major ADJ N 
+majority N 
+make N V 
+maker N 
+makers N 
+makes N V 
+making N V 
+malaysia N 
+malcolm N 
+male ADJ N 
+mall N 
+man N SYM V 
+manage V 
+managed V 
+management N 
+manager N 
+managers N 
+manages V 
+managing N V 
+mancuso N 
+mandated V 
+manhattan N 
+manila N 
+manipulate V 
+manitoba N 
+manner N 
+mansion N 
+manuel N 
+manufacture N V 
+manufactured ADJ V 
+manufacturer N 
+manufacturers N 
+manufacturing N V 
+manville N 
+many ADJ ADV DET V 
+marathon N 
+march N V 
+margin N 
+marginal ADJ 
+marginally ADV 
+margins N 
+marina N 
+marine ADJ N 
+marion N 
+mark N V 
+marked ADJ V 
+market N V 
+market-makers N 
+marketable ADJ 
+marketed V 
+marketer N 
+marketers N 
+marketing ADJ N V 
+marketplace N 
+markets N V 
+markey N 
+marking V 
+marks N V 
+marlin N 
+marlowe N 
+married ADJ N V 
+marshall N 
+martin N 
+marvin N 
+mary N 
+maryland N 
+mason N 
+mass ADJ ADV N 
+mass. N 
+massachusetts N 
+massacre N 
+massive ADJ 
+master N 
+mastergate N 
+match N V 
+matched V 
+matches N V 
+matching ADJ N V 
+mateo N 
+material ADJ N 
+materialized V 
+materials N 
+mather N 
+mattel N 
+matter N V 
+matters N V 
+mature ADJ V 
+maturing V 
+maturities N 
+maturity N 
+max N 
+maxicare N 
+maximize V 
+maximum ADJ N 
+maxwell N 
+may N V 
+maybe ADV 
+maynard N 
+mayor N 
+mayoral ADJ 
+mca N 
+mccall N 
+mccaw N 
+mcdonald N V 
+mcdonnell N 
+mcdonough N 
+mcduffie N 
+mcgraw N 
+mcgraw-hill N 
+mci N 
+mcnamee N 
+md N 
+md. N 
+me N SYM 
+mean ADJ V 
+meaning N V 
+means N V 
+meant V 
+meantime N 
+meanwhile ADV 
+measure N V 
+measured ADJ V 
+measurements N 
+measures N V 
+measuring N V 
+meat N 
+mechanism N 
+media N 
+median ADJ N 
+mediator N 
+medicaid N 
+medical ADJ N 
+medicine N 
+medium ADJ N 
+medium-sized ADJ 
+meet V 
+meeting N V 
+meetings N 
+mellon N 
+member N 
+members N 
+membership N 
+memo N 
+memories N 
+memory N 
+men N 
+mengistu N 
+menlo N 
+mention V 
+mentioned V 
+merabank N 
+merc N 
+mercantile N 
+mercedes N 
+merchandise N 
+merchant N 
+merchants N 
+mercury N 
+mere ADJ 
+meredith N 
+merely ADV 
+merge V 
+merged ADJ V 
+merger N 
+mergers N 
+meridian N 
+merieux N 
+merit N V 
+merkur N 
+merrill N 
+mesa N 
+mess N 
+message N 
+messages N 
+messrs. N 
+met N V 
+metal N 
+metals N 
+method N 
+methods N 
+metric ADJ N 
+metropolitan ADJ N 
+mexican ADJ N 
+mexico N 
+mgm N 
+miami N 
+mich. N 
+michael N 
+michigan ADJ N 
+micro N 
+microsoft N 
+microsystems N 
+mid-9999 N 
+mid-9999s N 
+mid-october ADJ N 
+middle ADJ N 
+mideast ADJ N 
+midland N 
+midnight N 
+midst N 
+midwest ADJ N 
+might V 
+mike N 
+mikhail N 
+milan N 
+mildly ADV 
+miles N 
+milestones N 
+military ADJ N 
+milk N V 
+milken N 
+mill N 
+miller N 
+million N 
+millions N 
+mills N 
+milton N 
+mind N V 
+minds N 
+mine ADJ N V 
+minerals N 
+mines N 
+minimal ADJ 
+minimum ADJ N 
+mining N V 
+minister N 
+ministers N 
+ministry N 
+minivans N 
+mink N 
+minneapolis N 
+minnesota N 
+minor ADJ N 
+minorities N 
+minority N 
+minpeco N 
+minus CONJ N PRE 
+minute ADJ N 
+minutes N 
+mirror N V 
+misleading ADJ V 
+miss N V 
+missed V 
+missile N 
+missiles N 
+missing ADJ V 
+mission N 
+mississippi N 
+missouri N 
+misstated V 
+mistake N 
+mistakes N 
+mitchell N 
+mitsubishi N 
+mitsui N 
+mix N 
+mixed ADJ V 
+mixte N 
+mobil N 
+mobile ADJ N 
+mode N 
+model ADJ N V 
+models N 
+moderate ADJ V 
+moderately ADV 
+modern ADJ N 
+modest ADJ 
+modestly ADV 
+modifications N 
+mom N 
+moment N 
+moments N 
+momentum N 
+monday N 
+monetary ADJ N 
+money N 
+money-market ADJ N 
+monitor N V 
+monitored ADJ V 
+monitoring N V 
+monitors N V 
+montagu N 
+montedison N 
+montgomery N 
+month N 
+monthly ADJ ADV N 
+months N 
+montreal N 
+mood N 
+moody N 
+moore N 
+moral ADJ N 
+morale N 
+more ADJ ADV 
+moreover ADJ ADV 
+morgan N 
+morgenzon N 
+morning N 
+morris N 
+morrison N 
+mortgage N V 
+mortgage-backed ADJ 
+mortgages N 
+mosbacher N 
+moscow N 
+most ADJ ADV 
+mostly ADV 
+mother N 
+mothers N 
+motion N 
+motion-picture ADJ N 
+motivated ADJ V 
+motor N 
+motorola N 
+motors N 
+mount N V 
+mountain N 
+mounted V 
+mounting ADJ V 
+mouse N 
+mouth N 
+move N V 
+moved V 
+movement N 
+movements N 
+moves N V 
+movie N 
+movieline N 
+movies N 
+moving ADJ V 
+mr. N 
+mrs. N 
+ms. N 
+much ADJ ADV 
+mullins N 
+multiple ADJ N 
+multiples N 
+municipal ADJ N 
+municipals N 
+mural N 
+murder N 
+murphy N 
+murray N 
+museum N 
+mushrooms N 
+music N 
+musicians N 
+must V 
+mutual ADJ N 
+mutual-fund ADJ N 
+my ADJ N 
+myself N 
+mystery N 
+n't ADV 
+n. N 
+n.c N 
+n.c. N 
+n.h. N 
+n.j N 
+n.j. N 
+n.m. N 
+n.v. N 
+n.y N 
+n.y. N 
+nabisco N 
+naczelnik SYM 
+nadeau N 
+name N V 
+name-dropping N 
+named V 
+names N 
+narcotics N 
+narrow ADJ V 
+narrowed V 
+narrower ADJ 
+narrowing N V 
+narrowly ADV 
+nasa N 
+nasd N 
+nasdaq N 
+nasty ADJ 
+nation N 
+national ADJ N 
+nationally ADV 
+nations N 
+nationwide ADJ ADV N 
+native ADJ N 
+nato N 
+natural ADJ N 
+naturally ADV 
+nature N 
+natwest N 
+naval ADJ N 
+navigation N 
+navy N 
+nbc N 
+nbi N 
+neal N 
+near ADJ ADV PRE 
+near-term ADJ 
+nearby ADJ ADV 
+nearly ADV 
+nec N 
+necessarily ADV 
+necessary ADJ 
+necessity N 
+neck N 
+need N V 
+needed ADJ V 
+needham N 
+needs N V 
+negative ADJ 
+neglected V 
+negotiable ADJ 
+negotiate V 
+negotiated V 
+negotiating N V 
+negotiations N 
+negotiators N 
+neighbor N 
+neighborhood N 
+neighborhoods N 
+neighboring ADJ V 
+neighbors N 
+neil N 
+neither ADV CONJ DET PRE 
+nelson N 
+nervous ADJ 
+nervousness N 
+net ADJ N V 
+netherlands N 
+network N V 
+networks N 
+neutrons N 
+nev. N 
+never ADV 
+nevertheless ADV 
+new ADJ N 
+new-issue ADJ 
+newark N 
+newer ADJ 
+newly ADV 
+newport N 
+news N 
+newsletter N 
+newsletters N 
+newspaper N 
+newspapers N 
+newsweek N 
+next ADJ ADV N PRE 
+nfl N 
+ngoc N 
+nguyen N 
+nicaragua N 
+nice ADJ 
+nicholas N 
+nickel ADJ N 
+nielsen N 
+nigel N 
+night ADV N 
+nights N 
+nih N 
+nikkei N 
+nikko N 
+nimitz N 
+nine N 
+nine-month ADJ 
+nippon N 
+nissan N 
+nixon N 
+nl N 
+no ADV DET N SYM 
+no. N 
+nobel N 
+nobody N 
+noise N 
+nominal ADJ 
+nomination N 
+nomura N 
+non-food ADJ 
+non-profit ADJ 
+non-u.s. ADJ N 
+noncallable ADJ 
+none N 
+nonetheless ADV 
+nonexecutive ADJ 
+nonperforming ADJ N V 
+nonrecurring ADJ V 
+noon N 
+nor CONJ 
+nora N 
+noranda N 
+norfolk N 
+noriega N 
+normal ADJ ADV 
+normalcy N 
+normally ADV N 
+norman N 
+north ADJ ADV N 
+northeast ADV N 
+northern ADJ N 
+northrop N 
+northwest N 
+norton N 
+nose N 
+not ADV 
+notably ADV 
+note N V 
+noted ADJ V 
+notes N V 
+nothing N 
+notice N V 
+noticed ADJ V 
+notification N 
+notified V 
+notify V 
+noting V 
+notion N 
+notorious ADJ 
+nov. N V 
+novel ADJ N 
+novels N 
+november N 
+now ADV 
+nsc N 
+nuclear ADJ N 
+nugget N 
+number N 
+numbers N 
+numerous ADJ 
+nuovo N 
+nwa N 
+nye N 
+nynex N 
+nyse N 
+o'connell N 
+o. N 
+oakland N 
+objective ADJ N 
+objectives N 
+obligation N 
+obligations N 
+observed ADJ V 
+observers N 
+obstacle N 
+obtain V 
+obtained V 
+obtaining V 
+obvious ADJ 
+obviously ADV 
+occasionally ADV 
+occidental N 
+occupied ADJ V 
+occur V 
+occurred V 
+occurs V 
+ocean N 
+oct. N 
+october N 
+odd ADJ 
+oddly ADV 
+odds N 
+odeon N 
+of ADV PRE 
+off ADJ ADV PRE 
+offensive ADJ N 
+offer N V 
+offered ADJ N V 
+offering N V 
+offerings N 
+offers N V 
+office N 
+officer N 
+officers N 
+offices N 
+official ADJ N 
+officially ADV 
+officials N 
+offset V 
+offsetting ADJ V 
+often ADV 
+ogilvy N 
+ohio N 
+oil N 
+oils N 
+ok ADJ SYM 
+oklahoma N 
+old ADJ N 
+older ADJ N 
+olin N 
+oliver N 
+olivetti N 
+olympia N 
+olympic N 
+olympics N 
+omitted V 
+on ADV N PRE 
+once ADV PRE 
+one N 
+one-day ADJ 
+one-half ADJ N 
+one-third ADJ ADV N 
+one-time ADJ 
+one-year ADJ 
+onerous ADJ 
+ones N 
+ongoing ADJ 
+only ADJ ADV 
+onto PRE 
+opec N 
+open ADJ ADV N V 
+opened V 
+opening ADJ N V 
+openly ADV 
+openness N 
+opens V 
+opera N 
+operate V 
+operated V 
+operates V 
+operating N V 
+operation N 
+operational ADJ 
+operations N 
+operator N 
+operators N 
+opinion N 
+opinions N 
+oppenheimer N 
+opponent N 
+opponents N 
+opportunities N 
+opportunity N 
+oppose V 
+opposed ADJ V 
+opposes V 
+opposing ADJ V 
+opposite ADJ N PRE 
+opposition N 
+optical ADJ N 
+optimistic ADJ 
+option N 
+options N 
+or CONJ 
+orange N 
+order N V 
+ordered V 
+ordering V 
+orders N V 
+ordinarily ADV 
+ordinary ADJ 
+ore. N 
+oregon N 
+organization N 
+organizational ADJ 
+organizations N 
+organized ADJ N V 
+organizing N V 
+original ADJ N 
+originally ADV 
+orleans N 
+orr N 
+ortiz N 
+otc N 
+other ADJ 
+others N 
+otherwise ADV 
+ought V 
+ounce N 
+ounces N 
+our N 
+ourselves N 
+oust V 
+ousted V 
+out ADJ ADV PRE 
+outcome N 
+outer ADJ 
+outlays N 
+outlets N 
+outlook N 
+outnumbered V 
+output N 
+outright ADJ ADV 
+outside ADJ ADV N PRE 
+outsiders N 
+outstanding ADJ 
+over ADJ ADV N PRE 
+over-the-counter ADJ N 
+overall ADJ ADV N 
+overcome V 
+overhaul N V 
+overhead ADJ ADV N 
+overnight ADJ ADV 
+override N V 
+overruns N 
+overseas ADJ ADV N 
+overseeing V 
+oversight N 
+overtime ADV N 
+overwhelming ADJ V 
+owed V 
+owen N 
+owes V 
+own ADJ V 
+owned ADJ V 
+owner N 
+owners N 
+ownership N 
+owning N V 
+owns V 
+ozone N 
+p&g N 
+p. N 
+p.m ADV N 
+p.m. ADV N 
+pa. N 
+pace N 
+pachinko N 
+pacific ADJ N 
+pack N V 
+package N 
+packages N V 
+packaging N V 
+packed ADJ V 
+packwood N 
+pact N 
+page N 
+pages N 
+paid V 
+painewebber N 
+painted V 
+painting N V 
+paintings N 
+pair N V 
+pale ADJ N V 
+palestinian ADJ N 
+palladium N 
+palm N V 
+palo N 
+pan N V 
+panama N 
+panamanian ADJ 
+panel N 
+panels N 
+panic N V 
+paper N 
+papers N 
+par ADJ N 
+parallel ADJ N V 
+paramount ADJ N 
+paramount-mca ADJ N 
+parcel N 
+parent ADJ N 
+parental ADJ 
+parents N 
+paribas N 
+paris N 
+park N V 
+parker N 
+parking N 
+parkway N 
+parliament N 
+part N 
+partial ADJ 
+partially ADV 
+participants N 
+participate V 
+participating V 
+participation N 
+particular ADJ N 
+particularly ADV 
+parties N V 
+partly ADV 
+partner N 
+partners N 
+partnership N 
+partnerships N 
+parts N 
+party N 
+pasadena N 
+pass N V 
+passage N 
+passed V 
+passenger N 
+passengers N 
+passing N V 
+passive ADJ N 
+past ADJ ADV N PRE 
+patent ADJ N 
+patents N 
+path N 
+patient ADJ N 
+patients N 
+patrols N 
+pattern N 
+patterns N 
+paul N 
+pawn N 
+paxus N 
+pay N V 
+payable ADJ 
+paying V 
+payment N 
+payments N 
+payouts N 
+payroll N 
+pays V 
+pcs N 
+peabody N 
+peace N 
+peak ADJ N V 
+peaked ADJ V 
+peasant N 
+peasants N 
+pediatric ADJ N 
+pegged V 
+pemex N 
+penalties N 
+penalty N 
+pence N 
+pencil N 
+pencils N 
+pending V 
+pennsylvania N 
+penny N 
+pennzoil N 
+pension N 
+pentagon N 
+people N 
+pepsi N 
+pepsico N 
+per PRE SYM 
+per-share ADJ 
+perceived V 
+percent N 
+percentage N 
+perception N 
+perceptions N 
+perfect ADJ 
+perfectly ADV 
+perform V 
+performance N 
+performed V 
+performing V 
+perhaps ADV 
+period N 
+periodic ADJ 
+periods N 
+peripherals N 
+permanent ADJ 
+permanently ADV 
+permission N 
+permit N V 
+permits N V 
+permitted V 
+persist V 
+persistent ADJ 
+person N 
+personal ADJ N 
+personal-injury ADJ N 
+personnel N 
+perspective N 
+persuade V 
+persuaded V 
+peru N 
+pervasive ADJ 
+pesetas N 
+petco N 
+peter N 
+peters N 
+peterson N 
+petrochemical N 
+petroleum N 
+pfeiffer N 
+pfizer N 
+pharmaceutical ADJ N 
+pharmaceuticals N 
+phase N V 
+phased V 
+phelan N 
+phenomenon N 
+philadelphia N 
+philip N 
+philippine ADJ N 
+philippines N 
+phillips N 
+philosophy N 
+phoenix N 
+phone N V 
+phones N 
+phony ADJ N 
+photographic ADJ 
+photographs N V 
+photos N 
+physical ADJ N 
+pick V 
+picked V 
+pickens N 
+picking N V 
+picks N V 
+pickup N 
+picop N 
+picture N 
+pictures N 
+pie N 
+piece N V 
+pieces N 
+pilot N 
+pilots N 
+pilson N 
+pinnacle N 
+pinpoint N V 
+pioneer N 
+pipeline N 
+pit N 
+pitch N V 
+pitched ADJ V 
+pitches N V 
+pitney N 
+pittsburgh N 
+pittston N 
+pizza N 
+place N V 
+placed V 
+places N V 
+plagued V 
+plain ADJ ADV N 
+plaintiffs N 
+plan N V 
+plane N 
+planes N 
+planet N 
+planned ADJ N V 
+planner N 
+planners N 
+planning N V 
+plans N V 
+plant N V 
+plants N 
+plastic ADJ N 
+plastics N 
+platform N 
+platinum N 
+platt N 
+play N V 
+played V 
+player N 
+players N 
+playing N V 
+plays N V 
+plaza N 
+plc N 
+plea N V 
+pleaded V 
+pleased ADJ V 
+pledged V 
+plenty ADJ ADV N 
+plo N 
+plot N V 
+plummeted V 
+plunge N V 
+plunged V 
+plunging V 
+plus ADJ ADV CONJ N PRE 
+pockets N V 
+point ADJ N V 
+pointed ADJ V 
+pointing V 
+points N V 
+poland N 
+polaroid N 
+poles N 
+police N V 
+policies N 
+policy N 
+policyholders N 
+polish ADJ N V 
+politburo N 
+political ADJ N 
+politically ADV 
+politicians N 
+politics N 
+poll ADJ N V 
+polls N V 
+pollution N 
+polyethylene N 
+pons N 
+pont N 
+poodle N 
+pool N V 
+pools N 
+poor ADJ N 
+poorly ADV 
+pop ADJ N V 
+popular ADJ N 
+popularity N 
+population N 
+pork N 
+port ADJ N 
+porter N 
+portfolio N 
+portfolios N 
+portion N 
+portugal N 
+position N V 
+positions N V 
+positive ADJ N 
+possibility N 
+possible ADJ ADV 
+possibly ADV 
+post ADJ N PRE V 
+postal ADJ N 
+posted V 
+posting V 
+postponed V 
+posts N V 
+postwar ADJ 
+pot N V 
+potatoes N 
+potential ADJ N 
+potentially ADV 
+pound N V 
+pounds N 
+poured V 
+poverty N 
+power N 
+powerful ADJ 
+powerhouse N 
+powers N 
+practical ADJ N 
+practice N V 
+practices N 
+practicing N V 
+praised V 
+pre-trial ADJ 
+preamble N 
+prebon N 
+preceding ADJ V 
+precious ADJ 
+precise ADJ 
+precisely ADV 
+predecessor N 
+predict V 
+predictable ADJ 
+predicted V 
+predicting V 
+predictions N 
+predicts V 
+prefer V 
+preference N 
+preferences N 
+preferred ADJ N V 
+prefers V 
+pregnancy N 
+pregnant ADJ 
+preliminary ADJ 
+premier ADJ N 
+premiere N V 
+premises N 
+premium ADJ N 
+premiums N 
+prepaid ADJ V 
+preparation N 
+prepare V 
+prepared ADJ V 
+preparing V 
+presence N 
+present ADJ ADV N V 
+presentation N 
+presented V 
+preserve V 
+presidency N 
+president N 
+presidential ADJ 
+presidents N 
+press N V 
+pressed V 
+pressing ADJ V 
+pressure N V 
+pressured ADJ V 
+pressures N 
+prestige N 
+prestigious ADJ 
+pretax ADJ N 
+pretrial ADJ 
+pretty ADJ ADV 
+prevail V 
+prevent V 
+prevented V 
+preventing V 
+previous ADJ 
+previously ADV 
+price N V 
+priced V 
+prices N 
+pricing N V 
+pricings N 
+pride N 
+primarily ADV 
+primary ADJ N 
+prime ADJ N 
+prime-time ADJ N 
+prince N 
+princeton ADJ N 
+principal ADJ N 
+principals N 
+principle N 
+print N V 
+printed N V 
+printers N 
+prior ADJ ADV 
+priorities N 
+priority ADJ N 
+prison N 
+privacy N 
+private ADJ N 
+private-sector ADJ N 
+privately ADV 
+privatization N 
+privilege N 
+prize N 
+pro ADJ N SYM 
+pro-choice ADJ 
+pro-democracy ADJ 
+pro-life ADJ 
+probability N 
+probably ADV 
+probe N V 
+problem N 
+problems N 
+procedure N 
+procedures N 
+proceed V 
+proceeding N V 
+proceedings N 
+proceeds N V 
+process N V 
+processed ADJ V 
+processing N V 
+processors N 
+procter N 
+procurement ADJ N 
+produce N V 
+produced V 
+producer N 
+producers N 
+produces V 
+producing ADJ N V 
+product N 
+production N 
+productions N 
+productivity N 
+products N 
+profession N 
+professional ADJ N 
+professionals N 
+professor N 
+profile ADJ N V 
+profit N V 
+profit-taking N 
+profitability N 
+profitable ADJ 
+profits N 
+program N 
+program-trading ADJ N 
+programming N V 
+programs N 
+progress N 
+prohibit V 
+project N V 
+projected V 
+projecting V 
+projection N 
+projections N 
+projects N 
+proliferation N 
+prolonged ADJ V 
+prominent ADJ 
+promise N V 
+promised ADJ V 
+promises N V 
+promising ADJ V 
+promote V 
+promoting V 
+promotion N 
+promotional ADJ 
+promotions N 
+prompted V 
+prompting V 
+promptly ADV 
+proof ADJ N 
+proper ADJ 
+properly ADV 
+properties N 
+property N 
+proponents N 
+proportion N 
+proposal N 
+proposals N 
+proposed ADJ V 
+proposing V 
+prosecution N 
+prosecutions N 
+prosecutor N 
+prosecutorial ADJ 
+prosecutors N 
+prospect N 
+prospective ADJ 
+prospects N 
+prospectus N 
+prosperity N 
+protect V 
+protected ADJ V 
+protecting V 
+protection N 
+protein N 
+proteins N 
+protest N V 
+protesters N 
+protests N 
+proud ADJ 
+prove V 
+proved V 
+proven ADJ V 
+provide V 
+provided V 
+providence N 
+provider N 
+provides V 
+providing V 
+provigo N 
+province N 
+provinces N 
+proving N V 
+provision N 
+provisions N 
+proxy ADJ N 
+prudent ADJ 
+prudential ADJ N 
+prudential-bache N 
+ps N 
+pse N 
+psychological ADJ 
+psychology N 
+public ADJ N 
+publication N 
+publications N 
+publicity N 
+publicly ADV 
+publish V 
+published ADJ V 
+publisher N 
+publishers N 
+publishes V 
+publishing N V 
+puerto N 
+pull V 
+pulled V 
+pulling V 
+pulp N 
+pump N V 
+pumped V 
+pumping V 
+punish V 
+purchase N V 
+purchased ADJ V 
+purchasers N 
+purchases N V 
+purchasing N V 
+pure ADJ 
+purnick N 
+purpose N 
+purposes N 
+pursue V 
+pursued ADJ V 
+pursuing V 
+pursuit N 
+push N V 
+pushed V 
+pushing V 
+put ADJ N V 
+puts N V 
+putting V 
+qintex N 
+quack N SYM 
+quake N 
+qualify V 
+quality ADJ N 
+quantities N 
+quantum N 
+quarter N 
+quarterly ADJ ADV N 
+quarters N 
+quayle N 
+queen N 
+question N V 
+questionable ADJ 
+questioned V 
+questions N V 
+quick ADJ ADV N 
+quickly ADV 
+quickview N 
+quiet ADJ N 
+quieted V 
+quietly ADV 
+quina N 
+quist N 
+quit V 
+quite ADJ ADV DET 
+quota N 
+quotas N 
+quotations N 
+quoted V 
+r. N 
+race N 
+races N 
+racial ADJ 
+racing N V 
+racketeering N V 
+radar N 
+radical ADJ N 
+radio N 
+rafale N 
+rage N 
+rahn N 
+raider N 
+raiders N 
+rail N 
+railroad N 
+rain N V 
+raise N V 
+raised V 
+raises V 
+raising N V 
+rallied V 
+rallies N 
+rally N V 
+ralph N 
+ramada N 
+ran V 
+ranch N 
+rand N 
+random ADJ N 
+range N V 
+ranged V 
+ranges N V 
+ranging V 
+rank N V 
+ranking ADJ N 
+ranks N V 
+rape N 
+rapid ADJ N 
+rapidly ADV 
+rare ADJ 
+rarely ADV 
+rash ADJ N 
+rate N V 
+rated N V 
+rates N V 
+rather ADV 
+rating N 
+ratings N 
+ratio N 
+rational ADJ 
+ratios N 
+raw ADJ 
+raymond N 
+re N 
+reach N V 
+reached V 
+reaches N V 
+reaching V 
+react V 
+reacted V 
+reacting V 
+reaction N 
+reactions N 
+read N V 
+reader N 
+readers N 
+readily ADV 
+reading N V 
+ready ADJ N 
+reagan N 
+real ADJ ADV N 
+real-estate ADJ N 
+realist N 
+reality N 
+realize V 
+realized V 
+really ADV 
+realty N 
+reason N V 
+reasonable ADJ 
+reasonably ADV 
+reasons N V 
+rebates N 
+rebels N 
+rebound N V 
+rebounded N V 
+rebuild V 
+recall N V 
+recalls V 
+recapitalization N 
+receipts N 
+receivables N 
+receive V 
+received ADJ V 
+receives V 
+receiving V 
+recent ADJ 
+recently ADV 
+receptor N 
+recession N 
+recessions N 
+recital N 
+reckless ADJ 
+reckons V 
+recognition N 
+recognize V 
+recognized V 
+recommend V 
+recommendation N 
+recommendations N 
+recommended ADJ V 
+recommends V 
+reconciliation N 
+record ADJ N V 
+recorded V 
+recorders N 
+recording N V 
+records N 
+recover V 
+recovered V 
+recovering V 
+recovery N 
+recreation N 
+recruit N V 
+recruiting N V 
+red ADJ N 
+redeem V 
+redeemed V 
+redemption N 
+reduce V 
+reduced ADJ V 
+reduces V 
+reducing V 
+reduction N 
+reductions N 
+reebok N 
+refcorp N 
+refer V 
+reference N 
+referred V 
+referring V 
+refinancing N V 
+refined ADJ V 
+refineries N 
+refiners N 
+refinery N 
+refining N V 
+reflect V 
+reflected V 
+reflecting V 
+reflects V 
+reform N V 
+reformer ADJ N 
+reformers N 
+reforms N 
+refrigerators N 
+refuge N 
+refugees N 
+refund N V 
+refunding ADJ N V 
+refunds N 
+refuse V 
+refused V 
+refuses V 
+regain V 
+regard N V 
+regarded ADJ V 
+regarding V 
+regardless ADV 
+regime N 
+region N 
+regional ADJ N 
+regions N 
+register N V 
+registered ADJ N V 
+registration N 
+regret N V 
+regular ADJ 
+regulate V 
+regulation N 
+regulations N 
+regulator N 
+regulators N 
+regulatory ADJ N 
+rehabilitation N 
+rein N V 
+reinforcement N 
+reinsurance N 
+reject V 
+rejected V 
+rejection N 
+related ADJ N V 
+relating V 
+relations N 
+relationship N 
+relationships N 
+relative ADJ N 
+relatively ADV 
+release N V 
+released V 
+releases N V 
+relevant ADJ 
+reliance N 
+relief N 
+relies V 
+relieved ADJ V 
+relocation N 
+reluctant ADJ 
+rely V 
+relying V 
+remain V 
+remainder N 
+remained V 
+remaining ADJ V 
+remains N V 
+remarkable ADJ 
+remarks N V 
+remedy N V 
+remember V 
+remic N 
+reminded V 
+reminder N 
+removal N 
+remove V 
+removed V 
+renault N 
+renew V 
+renewal N 
+renewed ADJ V 
+rent N V 
+reoffered V 
+reopen V 
+reopened V 
+reorganization N 
+rep. N 
+repaid V 
+repair N V 
+repairs N 
+repay V 
+repeal N V 
+repeat N V 
+repeated ADJ V 
+repeatedly ADV 
+replace V 
+replaced V 
+replacement N 
+replacing V 
+replies N V 
+report N V 
+reported ADJ V 
+reportedly ADV 
+reporter N 
+reporters N 
+reporting N V 
+reports N V 
+represent V 
+representative ADJ N 
+representatives N 
+represented V 
+representing V 
+represents V 
+republic N 
+republican ADJ N 
+republicans N 
+repurchase ADJ N V 
+reputable ADJ 
+reputation N 
+request N V 
+requested V 
+requests N 
+require V 
+required ADJ N V 
+requirement N 
+requirements N 
+requires V 
+requiring V 
+rescue N V 
+research N V 
+researcher N 
+researchers N 
+reservations N 
+reserve N 
+reserves N V 
+reset ADJ N V 
+residence N 
+resident N 
+residential ADJ N 
+residents N 
+resign V 
+resignation N 
+resignations N 
+resigned ADJ V 
+resist V 
+resistance N 
+resisted V 
+resolution N 
+resolve N V 
+resolved V 
+resort N V 
+resorts N V 
+resources N 
+respect N V 
+respective ADJ 
+respectively ADV 
+respond N V 
+responded V 
+respondents N 
+responding V 
+response N 
+responses N 
+responsibilities N 
+responsibility N 
+responsible ADJ 
+responsive ADJ 
+rest N V 
+restated ADJ V 
+restaurant N 
+restaurants N 
+restore V 
+restored V 
+restraint N 
+restrict V 
+restricted ADJ V 
+restrictions N 
+restructure N V 
+restructured V 
+restructuring N V 
+result N V 
+resulted V 
+resulting ADJ V 
+results N V 
+resume V 
+resumed V 
+retail ADJ N V 
+retailer N 
+retailers N 
+retailing N V 
+retain V 
+retained V 
+retaining V 
+retains V 
+retin-a N 
+retire V 
+retired ADJ N V 
+retirement N 
+retiring V 
+retreat N V 
+retreated V 
+return N V 
+returned V 
+returning V 
+returns N V 
+reunification N 
+reveal V 
+revenue N 
+revenues N 
+reversal N 
+reverse ADJ ADV N V 
+review N V 
+reviewing V 
+reviews N V 
+revised ADJ V 
+revival N 
+revive V 
+revoke V 
+revoked V 
+revolution N 
+revolutionary ADJ N 
+reward N V 
+rewarding ADJ N V 
+rewards N V 
+rey N 
+reynolds N 
+rhetoric N 
+rhone-poulenc N 
+rica N 
+rican ADJ N 
+rice N 
+rich ADJ N 
+richard N 
+richfield N 
+richmond N 
+richter ADJ N 
+rico N 
+rid ADJ V 
+ride N V 
+right ADJ ADV N 
+rights N 
+rigid ADJ 
+ring N V 
+ringer N 
+ringers N 
+ringing N V 
+rise N V 
+risen V 
+rises N V 
+rising ADJ V 
+risk N V 
+risks N V 
+risky ADJ 
+rival ADJ N 
+rivals N 
+river N 
+rjr N 
+road N 
+roads N 
+roadway N 
+roadways N 
+robert N 
+roberts N 
+robertson N 
+robins N 
+robinson N 
+robot N 
+robust ADJ 
+rochester N 
+rock N 
+rockefeller N 
+rockwell N 
+rod N 
+roderick N 
+roe N 
+roebuck N 
+roger N 
+role N 
+roll N V 
+rolled ADJ V 
+rolling N V 
+roman ADJ N 
+ron N 
+ronald N 
+roof N 
+room N 
+rooms N 
+root N V 
+roots N 
+roper N 
+ropes N 
+rorer N 
+rose N V 
+rosen N 
+ross N 
+roth N 
+rouge N 
+rough ADJ 
+roughly ADV 
+round ADJ N V 
+route N 
+routes N 
+routine ADJ N 
+routinely ADV 
+row N 
+rowe N 
+rows N 
+roy N 
+royal ADJ N 
+royalty N 
+rtc N 
+rubber N 
+rubbermaid N 
+rubble N 
+rubicam N 
+rudolph N 
+rule N V 
+ruled V 
+rules N V 
+ruling ADJ N V 
+rumored ADJ V 
+rumors N V 
+run N V 
+runkel N 
+running ADJ N V 
+runs N V 
+runway N 
+rural ADJ N 
+rush N V 
+rushed V 
+rushing V 
+russian ADJ N 
+ruth N 
+ruvolo N 
+ryder N 
+s N V 
+s&l N 
+s&p N 
+s. N 
+s.a. N 
+s.c N 
+s.p N 
+saab N 
+saab-scania N 
+saatchi N 
+sachs N 
+sacramento N 
+safe ADJ N 
+safer ADJ N 
+safety N V 
+sagan N 
+sagging V 
+said V 
+sailing N V 
+saks N 
+salaries N 
+salary N 
+sale N 
+sales ADJ N 
+salesman N 
+salesmen N 
+salespeople N 
+salmonella N 
+salomon N 
+salon N 
+sam N 
+same ADJ 
+samuel N 
+san ADJ N 
+sanctions N 
+sand N 
+sandinistas N 
+sanford N 
+sank V 
+santa N 
+sassy ADJ N 
+sat N V 
+satellite N 
+satire N 
+satisfaction N 
+satisfied ADJ V 
+saturday N 
+saudi ADJ N 
+saul N 
+savaiko N 
+save N PRE V 
+saved V 
+saving N V 
+savings N 
+savings-and-loan ADJ N 
+saw N V 
+say N SYM V 
+saying V 
+says V 
+scale N V 
+scam N 
+scams N 
+scandal N 
+scandals N 
+scarce ADJ 
+scare N V 
+scared ADV V 
+scattered ADJ V 
+scenario N 
+scene N 
+scenes N 
+schedule N V 
+scheduled ADJ V 
+schedules N 
+scheme N 
+schemes N 
+schering-plough N 
+school N V 
+schools N 
+schwab N 
+schwartz N 
+sci N 
+science N 
+sciences N 
+scientific ADJ N 
+scientist N 
+scientists N 
+scimed N V 
+score N V 
+scores N 
+scoring N 
+scorpio N 
+scott N 
+scowcroft N 
+scrambled V 
+scrambling V 
+scrap N V 
+scrapped V 
+screen N 
+screens N V 
+scrutiny N 
+sea N 
+seabrook N 
+seagate N 
+seagram N 
+seal N V 
+search N V 
+sears N 
+season N 
+seasonal ADJ 
+seasonally ADV 
+seasons N 
+seat N 
+seats N V 
+seattle N 
+sec N 
+second ADJ ADV N SYM 
+second-largest ADJ 
+second-quarter ADJ N 
+secondary ADJ 
+seconds N 
+secret ADJ N 
+secretary N 
+secrets N 
+section N 
+sections N 
+sector N 
+sectors N 
+secure ADJ V 
+secured ADJ V 
+securities N 
+security N 
+sedan N 
+see V 
+seeing V 
+seek V 
+seeking V 
+seeks V 
+seem V 
+seemed V 
+seemingly ADV 
+seems V 
+seen V 
+sees V 
+segment N 
+segments N 
+seidman N 
+seismic ADJ 
+seita N 
+seize V 
+select ADJ N V 
+selected ADJ V 
+selection N 
+selective ADJ 
+sell ADJ N V 
+sell-off N 
+seller N 
+sellers N 
+selling N V 
+sells N V 
+semel N 
+semiannual ADJ 
+semiconductor N 
+semiconductors N 
+sen. N 
+senate N 
+senator N 
+senators N 
+send V 
+sending V 
+senior ADJ N 
+seniority N 
+seniors N 
+sense N 
+sensitive ADJ 
+sent V 
+sentence N 
+sentenced V 
+sentiment N 
+seoul N 
+separate ADJ V 
+separately ADV N 
+sept. ADJ N 
+september N 
+sequester N V 
+serial ADJ N 
+series N 
+serious ADJ N 
+seriously ADV 
+serve V 
+served V 
+serves V 
+service N V 
+services N 
+serving V 
+session N 
+sessions N 
+set N V 
+setback N 
+setbacks N 
+sets N V 
+setting N V 
+settle V 
+settled ADJ V 
+settlement N 
+settlements N 
+settling N V 
+seven N 
+seven-day ADJ 
+seven-year ADJ 
+seventh ADJ N 
+several ADJ 
+severe ADJ 
+severely ADV 
+sex N 
+seymour N 
+shack N 
+shadow N V 
+shake N V 
+shaking V 
+shaky ADJ 
+shale N 
+shamir N 
+shannon N 
+shape N V 
+shapiro N 
+share N V 
+shared ADJ V 
+shareholder N 
+shareholders N 
+shares N V 
+sharing N V 
+sharp ADJ N 
+sharper ADJ 
+sharply ADV 
+shattered V 
+shattuck N 
+she N 
+shea N 
+shearson N 
+shed V 
+shedding N V 
+sheep N 
+sheer ADJ 
+sheet N 
+sheets N 
+shelf N 
+shell ADJ N V 
+shelters N 
+sheraton N 
+sherwin N 
+shevardnadze N 
+shield N V 
+shift N V 
+shifting V 
+ship N V 
+shipments N 
+shipped V 
+shippers N 
+shipping N V 
+ships N 
+shipyard N 
+shock N 
+shoe N 
+shoes N 
+shook V 
+shoot N V 
+shop N V 
+shoppers N 
+shopping N V 
+shops N 
+shore N V 
+short ADJ ADV N 
+short-lived ADJ 
+short-term ADJ N 
+shortage N 
+shortages N 
+shortly ADV 
+shot N V 
+should V 
+shoulder N V 
+show N V 
+showed V 
+showing N V 
+shown V 
+shows N V 
+showtime N 
+shrinking N V 
+shut V 
+shutdown N 
+shuttle N 
+shy ADJ V 
+sick ADJ 
+side ADJ N 
+sideline N 
+sidelines N 
+sides N 
+sidewalk N 
+sierra N 
+sign N V 
+signal N V 
+signaled V 
+signals N V 
+signed ADJ V 
+significance N 
+significant ADJ 
+significantly ADV 
+signing N V 
+signs N 
+silicon N 
+silver ADJ N 
+similar ADJ 
+similarly ADV 
+simmons N 
+simon N 
+simple ADJ N 
+simply ADJ ADV 
+simpson N 
+simultaneously ADV 
+since ADV PRE 
+singapore N 
+singer N 
+single ADJ V 
+single-a ADJ 
+single-a-9 ADJ 
+singled V 
+sir N 
+sit N V 
+site N 
+sites N 
+sitting V 
+situation N 
+situations N 
+six N 
+six-month ADJ 
+sixth ADJ ADV N 
+sizable ADJ 
+size N V 
+skase N 
+skeptical ADJ 
+skepticism N 
+ski ADJ N V 
+skidded V 
+skiers N 
+skiing N V 
+skilled ADJ 
+skills N 
+skin N 
+skinner N 
+slack ADJ N 
+slash N V 
+slashed V 
+slate N 
+slated V 
+slaughter N 
+slew N 
+slick ADJ N 
+slid V 
+slide N V 
+sliding V 
+slight ADJ 
+slightly ADV 
+slim ADJ 
+slip N V 
+slipped V 
+slipping V 
+sloan N 
+slow ADJ ADV V 
+slowdown N 
+slowed V 
+slower ADJ ADV 
+slowing N V 
+slowly ADV 
+sluggish ADJ 
+slump N 
+slumped V 
+small ADJ N 
+small-business N 
+smaller ADJ 
+smart ADJ N 
+smith N 
+smoke N V 
+smooth ADJ V 
+smoothly ADV 
+smurfit N 
+snapped ADJ V 
+snow N 
+so ADV CONJ PRE 
+so-called ADJ N 
+soap N 
+soar V 
+soared V 
+soaring V 
+social ADJ N 
+socialism N 
+socialist ADJ N 
+societe N 
+society N 
+soft ADJ 
+soft-drink N 
+softening N V 
+softer ADJ 
+softness N 
+software N 
+soil N 
+solar ADJ N 
+sold V 
+soldiers N 
+sole ADJ N 
+solely ADV 
+solicitation N 
+solid ADJ 
+solidarity N 
+solo ADJ ADV N 
+solution N 
+solutions N 
+solve V 
+solved V 
+somalia N 
+some ADV DET 
+somebody N 
+somehow ADV 
+someone N 
+something N 
+sometime ADV 
+sometimes ADV 
+somewhat ADV 
+somewhere ADV N 
+son N 
+song N 
+sons N 
+sony N 
+soo N 
+soon ADV 
+sooner ADV 
+sophisticated ADJ 
+sorrell N 
+sort ADV N V 
+sorts N 
+sotheby N 
+sought V 
+sound ADJ N V 
+sounds N V 
+soup N 
+sour ADJ V 
+source N 
+sources N 
+south ADJ ADV N 
+southeast ADJ N 
+southern ADJ N 
+southmark N 
+southwest ADJ N 
+southwestern N 
+soviet ADJ N 
+soviets N 
+soybean N 
+space N 
+spacecraft N 
+spain N 
+span N 
+spanish ADJ N 
+spark V 
+sparked V 
+spawned V 
+speak V 
+speaker N 
+speaking N V 
+speaks V 
+special ADJ N 
+special-interest ADJ 
+specialist ADJ N 
+specialists N 
+specialize V 
+specializes V 
+specially ADV 
+specialty ADJ N 
+specific ADJ N 
+specifically ADV 
+specifics N 
+specified ADJ V 
+specify V 
+specter N 
+speculate V 
+speculated V 
+speculation N 
+speculators N 
+speech N 
+speed N V 
+spend V 
+spending N V 
+spends V 
+spent ADJ V 
+sperry N 
+spiegel N 
+spielvogel N 
+spill N 
+spin N V 
+spinoff N 
+spirit N 
+spirits N 
+spite N 
+split ADJ N V 
+splitting ADJ N 
+spoke V 
+spokesman N 
+spokesmen N 
+spokeswoman N 
+sponsor N V 
+sponsored V 
+sponsors N V 
+sporadic ADJ 
+sport N 
+sports N V 
+spot ADJ N V 
+spots N V 
+spotted ADJ V 
+spread N V 
+spreading V 
+spreadsheet N 
+spree N 
+spring N V 
+springs N 
+spur V 
+spurred V 
+spy N V 
+square ADJ N 
+squeeze N V 
+squeezed V 
+squibb N 
+sr. N 
+sri N 
+st. N 
+stability N 
+stabilize V 
+stabilizing V 
+stable ADJ N 
+stadium N 
+staff N V 
+staffers N 
+stage N V 
+staged V 
+stages N 
+staggering ADJ V 
+staging N V 
+stake N V 
+stakes N 
+stalinist ADJ N 
+stalled V 
+stamford N 
+stance N 
+stand N V 
+standard ADJ N 
+standardized ADJ 
+standards N 
+standing ADJ N V 
+standpoint N 
+stands N V 
+stanford N 
+stanley N 
+star ADJ N 
+stars N V 
+start N V 
+start-up ADJ N 
+started V 
+starting ADJ V 
+startling ADJ 
+starts N V 
+state N V 
+state-owned ADJ 
+stated ADJ V 
+statement N 
+statements N 
+states N V 
+stateswest ADJ N 
+statewide ADJ ADV 
+stating V 
+station N 
+stations N 
+statistical ADJ N 
+statistics N 
+status N SYM 
+statute N 
+stay N V 
+stayed V 
+stays N V 
+steadily ADV 
+steady ADJ ADV 
+steal V 
+stealing V 
+steam N 
+stearns N 
+steel N 
+steelmaker N 
+steelmakers N 
+steelworkers N 
+steep ADJ N 
+stein N 
+steinberg N 
+steinhardt N 
+stem N V 
+stemmed V 
+stemming V 
+stems V 
+step N V 
+stephen N 
+stepped V 
+steppenwolf N 
+stepping V 
+steps N V 
+sterling ADJ N 
+steve N 
+steven N 
+stevens N 
+stewart N 
+stick N V 
+stiff ADJ N 
+still ADV 
+stock ADJ N V 
+stock-index ADJ N 
+stock-market ADJ N 
+stockholders N 
+stockholm N 
+stocks ADV N V 
+stolen ADJ V 
+stone N 
+stones N 
+stood V 
+stop N V 
+stop-loss ADJ N 
+stopped V 
+storage N 
+store N V 
+storer N 
+stores N V 
+stories N 
+storm N 
+story N 
+straight ADJ ADV 
+strain N V 
+strapped ADJ V 
+strategic ADJ N 
+strategies N 
+strategist N 
+strategy N 
+stream N 
+street N 
+streets N 
+strength N 
+strengthen V 
+strengthened V 
+strengthening ADJ N V 
+stress N V 
+stress-related ADJ 
+stressed V 
+stressing V 
+stretch ADJ N V 
+stretched V 
+stretching V 
+strict ADJ 
+strike N V 
+strikes N V 
+striking ADJ V 
+string N 
+strip N 
+stripped V 
+stronach N 
+strong ADJ ADV 
+stronger ADJ ADV N 
+strongest ADJ 
+strongly ADV 
+struck V 
+structural ADJ N 
+structure N V 
+structured V 
+structures N 
+struggle N 
+struggled V 
+struggling ADJ V 
+stuart N 
+stuck ADJ V 
+student N 
+students N 
+studied V 
+studies N V 
+studio N 
+studios N 
+study N V 
+studying V 
+stuff N V 
+stunned ADJ V 
+stupid ADJ 
+style N 
+subcommittee N 
+subject ADJ N 
+subjects N V 
+submit V 
+submitted V 
+subordinate ADJ N V 
+subordinated ADJ V 
+subpoena N V 
+subscriber N 
+subscribers N 
+subsequent ADJ 
+subsequently ADV 
+subsidiaries N 
+subsidiary ADJ N 
+subsidies N 
+subsidized ADJ V 
+subsidy N 
+substance N 
+substantial ADJ 
+substantially ADV 
+substitutes N 
+suburban ADJ 
+succeed V 
+succeeded V 
+succeeding V 
+succeeds V 
+success N 
+successful ADJ 
+successfully ADV 
+succession N 
+successor N 
+such ADJ DET 
+sudden ADJ 
+suddenly ADV 
+sue V 
+sued V 
+suez N 
+suffer V 
+suffered V 
+suffering N V 
+sufficient ADJ 
+sugar N 
+sugarman N 
+suggest V 
+suggested V 
+suggesting V 
+suggestion N 
+suggestions N 
+suggests V 
+suing V 
+suit N V 
+suitor N 
+suits N V 
+sullivan N 
+sum N V 
+summary N 
+summer ADJ N 
+summit N 
+sums N V 
+sun N 
+sunday N 
+sung N V 
+sunnyvale N 
+sununu N 
+supercomputer N 
+superfund N 
+superior ADJ N 
+supermarket N 
+supervision N 
+supervisor N 
+supervisors N 
+supplied V 
+supplier N 
+suppliers N 
+supplies N V 
+supply N V 
+support N V 
+supported V 
+supporters N 
+supporting ADJ V 
+supportive ADJ 
+supports N V 
+supposed ADJ V 
+supreme N 
+sure ADJ ADV N 
+surely ADV 
+surface N V 
+surfaced V 
+surge N 
+surged V 
+surgery N 
+surplus ADJ N 
+surprise ADV N V 
+surprised ADJ V 
+surprises N 
+surprising ADJ V 
+surprisingly ADV 
+surrounding ADJ V 
+surveillance N 
+survey N V 
+surveyed V 
+survival N 
+survive V 
+survived V 
+surviving V 
+susan N 
+suspect ADJ N V 
+suspects N V 
+suspend V 
+suspended V 
+suspension N 
+sustain V 
+sustained ADJ V 
+sverdlovsk N 
+sweden N 
+swedish ADJ N 
+sweeping ADJ V 
+sweet ADJ 
+sweetened V 
+swiftly ADV 
+swing N V 
+swings N V 
+swiss ADJ N 
+switch N V 
+switched V 
+switches N V 
+switching N V 
+switzerland N 
+sydney N 
+symbol N 
+sympathetic ADJ 
+symptoms N 
+syndicate N 
+syndicates N 
+syndrome N 
+synthetic ADJ N 
+syrian ADJ 
+system N 
+systems N 
+t. N 
+table N 
+tables N 
+tackle V 
+tactical ADJ N 
+taft N 
+tag N V 
+tailspin N 
+tainted ADJ V 
+taipei N 
+taiwan N 
+take V 
+taken V 
+takeover N 
+takeover-stock ADJ N 
+takeovers N 
+takes V 
+taking N V 
+talent N 
+talk N V 
+talked V 
+talking V 
+talks N V 
+tampa N 
+tan N 
+tana N 
+tandem N 
+tandy N V 
+tangible ADJ 
+tank N 
+tanks N 
+tape N 
+taped V 
+target N V 
+targeted ADJ V 
+targeting V 
+targets N V 
+tariff N 
+tariffs N 
+task N 
+tasks N 
+taste N V 
+taught V 
+tax N V 
+tax-exempt ADJ 
+tax-free ADJ 
+taxable ADJ 
+taxes N V 
+taxi N 
+taxpayer N 
+taxpayers N 
+taylor N 
+tea N 
+teach V 
+teacher N 
+teachers N 
+teaches V 
+teaching N 
+team N V 
+teams N 
+teamsters N 
+technical ADJ N 
+technicians N 
+technique N 
+techniques N 
+technologies N 
+technology N 
+ted N 
+teddy N 
+tele-communications N 
+telecommunications N 
+telegraph N V 
+telephone N 
+telerate N 
+telesis N 
+televised ADJ V 
+television N 
+tell V 
+teller N 
+telling ADJ V 
+tells V 
+temblor N 
+temple N 
+templeton N 
+temporarily ADV 
+temporary ADJ 
+tenants N 
+tend V 
+tendency N 
+tender ADJ N V 
+tendered ADJ V 
+tends V 
+tenfold ADV 
+tenn. N 
+tennessee N 
+tension N 
+tentatively ADV 
+tenure N 
+term N 
+termed V 
+terminals N 
+terminated V 
+terms N 
+terrible ADJ 
+territory N 
+terrorism N 
+terrorist ADJ 
+terry N 
+tesoro N 
+test N V 
+tested V 
+testify V 
+testimony N 
+testing N V 
+tests N V 
+texaco N 
+texans N 
+texas ADJ N 
+text N 
+textile ADJ N 
+thailand N 
+than ADV PRE 
+thanks N 
+tharp N 
+that ADV DET N PRE V 
+thatcher N 
+the ADJ DET N V 
+theater N 
+theaters N 
+theatrical ADJ N 
+theft N 
+their N 
+theirs ADJ N 
+them DET N 
+theme N 
+themselves N 
+then ADV 
+theoretical ADJ 
+theory N 
+there ADV DET 
+thereafter ADV 
+therefore ADV 
+these DET 
+they N 
+thi N 
+thick ADJ 
+thin ADJ ADV 
+thing N 
+things N 
+think N V 
+thinking N V 
+thinks V 
+third ADJ ADV N 
+third-quarter ADJ N 
+this DET N 
+thomas N 
+thompson N 
+thoroughbred ADJ N 
+those DET 
+though ADV N PRE 
+thought N V 
+thousand N 
+thousands N 
+threat N 
+threatened V 
+threatening ADJ V 
+threats N 
+three N 
+three-month ADJ 
+three-year ADJ 
+threlkeld N 
+threw V 
+thrift N 
+thrifts N 
+through ADJ ADV PRE 
+throughout PRE 
+throw V 
+throwing V 
+thrown V 
+throws V 
+thursday N 
+thus ADV 
+ticket N 
+tickets N 
+tie N V 
+tied V 
+ties N 
+tiger N 
+tight ADJ ADV 
+tighter ADJ ADV 
+tilt N V 
+time N V 
+timely ADJ 
+times CONJ N 
+times-stock N 
+timing N V 
+timothy N 
+tiny ADJ 
+tip N V 
+tire N 
+tires N V 
+tisch N 
+title N 
+to ADJ PRE PREP 
+tobacco N 
+today N 
+together ADV 
+toilet N 
+tokyo N 
+tokyu N 
+told V 
+toledo N 
+toll N 
+tom N 
+tomlin N 
+tomorrow N 
+ton N 
+tone N 
+tons N 
+tony ADJ N 
+too ADV 
+took V 
+tools N 
+toothpaste N 
+top ADJ N V 
+topic N 
+topped V 
+tops N V 
+toronto N 
+toronto-based ADJ 
+toshiba N 
+total ADJ N V 
+totaled V 
+totaling V 
+totally ADV 
+totals N V 
+touch ADV N V 
+touche N 
+touched V 
+tough ADJ 
+tougher ADJ ADV 
+tour N 
+tourism N 
+tourist N 
+tourists N 
+toward PRE 
+tower N 
+town N 
+towns N 
+toxic ADJ 
+toy N 
+toyota N 
+toys N 
+track N V 
+tracked V 
+tracking N V 
+tracks N V 
+trade N V 
+traded ADJ N V 
+trader N 
+traders N 
+trades N V 
+trading ADJ N V 
+tradition N 
+traditional ADJ 
+traditionally ADV 
+traffic N 
+trail N V 
+trailed V 
+train N V 
+trained V 
+training N V 
+tramp N 
+trans N 
+transaction N 
+transactions N 
+transatlantic N 
+transfer N V 
+transferred V 
+transit N 
+transition N 
+translated V 
+transplants N 
+transport N V 
+transportation N 
+trap N 
+trash N V 
+travel N V 
+travelers N 
+traviata N 
+treasurer N 
+treasury N 
+treasurys N 
+treat V 
+treated V 
+treatment N 
+treaty N 
+tree N 
+trees N 
+trelleborg N 
+tremendous ADJ 
+tremor N 
+tremors N 
+trend N V 
+trends N 
+trial N 
+trials N 
+tricky ADJ 
+tried V 
+tries N V 
+trigger N V 
+triggered ADJ V 
+trillion N 
+trim N V 
+trimmed ADV V 
+trinity N 
+trinova N 
+trip N 
+triple ADJ ADV V 
+triple-a ADJ N 
+tripled V 
+trips N 
+tritium N 
+tro N 
+troop N 
+troops N 
+trouble N 
+troubled ADJ N V 
+troubles N 
+troublesome ADJ 
+troubling ADJ V 
+trough N 
+truck N 
+trucking N 
+trucks N V 
+trudeau N 
+true ADJ SYM 
+truly ADV 
+trump N 
+trust N V 
+truth N 
+try V 
+trying V 
+tube N 
+tucson N 
+tuesday N 
+tuition N 
+tumble N V 
+tumbled V 
+tumultuous ADJ 
+turf N 
+turkey N 
+turmoil N 
+turn ADV N V 
+turnaround N 
+turned V 
+turner N 
+turning V 
+turnover N 
+turns N V 
+tv N 
+tva N 
+tvs N 
+tw N 
+twice ADJ ADV 
+twist N V 
+two N 
+two-day ADJ 
+two-thirds N 
+two-tier ADJ 
+two-year ADJ 
+type N 
+types N 
+typical ADJ 
+typically ADV 
+u N 
+u.k. N 
+u.n. N 
+u.s. ADJ N V 
+u.s.-soviet ADJ 
+u.s.a N 
+u.s.a. N 
+ua N 
+ual N 
+ultimate ADJ 
+ultimately ADV 
+unable ADJ 
+unanimously ADV 
+unanticipated ADJ 
+unauthorized ADJ 
+uncertain ADJ 
+uncertainty N 
+unchanged ADJ 
+uncle N 
+unclear ADJ 
+uncomfortable ADJ 
+uncovered V 
+undemocratic ADJ 
+under ADJ ADV PRE 
+undercut ADJ V 
+underestimated V 
+underlying ADJ V 
+underscore V 
+underscored V 
+understand V 
+understanding N V 
+understood V 
+undertaken V 
+undervalued ADJ V 
+underwear N 
+underwrite V 
+underwriter N 
+underwriters , N 
+underwriting N V 
+underwritten ADJ N V 
+unemployment N 
+unexpected ADJ 
+unexpectedly ADV 
+unfair ADJ 
+unfairly ADV 
+unfavorable ADJ 
+unfortunate ADJ 
+unfortunately ADV 
+union N 
+unions N 
+unique ADJ 
+unisys N 
+unit N 
+united N V 
+units N 
+universal ADJ N 
+universe N 
+university N 
+unknown ADJ N 
+unless PRE 
+unlike ADJ PRE 
+unlikely ADJ ADV 
+unprecedented ADJ 
+unpredictable ADJ 
+unreasonable ADJ 
+unrest N 
+unscrupulous ADJ 
+unsecured ADJ 
+unsettled ADJ V 
+unspecified ADJ 
+unsuccessful ADJ 
+unsuccessfully ADV 
+until PRE 
+unused ADJ 
+unusual ADJ 
+unusually ADV 
+unveil V 
+unveiled V 
+unwanted ADJ 
+unwelcome ADJ 
+up ADV PRE 
+upgrade ADJ V 
+upgraded V 
+upgrading N V 
+upham N 
+upheld V 
+upon ADV PRE 
+upper ADJ N 
+ups N 
+upscale ADJ N 
+upset ADJ N V 
+upside ADJ ADV N 
+upward ADJ ADV 
+urban ADJ N 
+urge N V 
+urged V 
+urgency N 
+urges V 
+urging V 
+us N 
+us$ $ 
+usa N 
+usage N 
+usair N 
+use N V 
+used ADJ V 
+useful ADJ 
+user N 
+users N 
+uses N V 
+using V 
+usual ADJ 
+usually ADV 
+usx N 
+utah N 
+utilities N 
+utility N 
+utilization N 
+utsumi N 
+utterly ADV 
+v. CONJ N PRE 
+va N 
+va. N 
+vacant ADJ 
+vacated V 
+valhi N 
+valid ADJ 
+valley N 
+valuable ADJ 
+value N V 
+valued V 
+values N V 
+van N 
+vans N 
+variations N 
+variety N 
+various ADJ 
+vary V 
+varying ADJ V 
+vast ADJ 
+vatican ADJ N 
+vax N 
+vegas N 
+vehicle N 
+vehicles N 
+venerable ADJ 
+venture N 
+ventures N 
+verdict N 
+vermont N 
+vermont-slauson N 
+version N 
+versions N 
+verwoerd N 
+very ADJ ADV 
+vessels N 
+veteran ADJ N 
+veterans N 
+veto N V 
+via N PRE 
+viable ADJ 
+viacom N 
+vicar N 
+vice ADV N 
+vickers N 
+victim N 
+victims N 
+victor N 
+victories N 
+victory N 
+video ADJ N 
+vietnam N 
+vietnamese ADJ N 
+view N V 
+viewed V 
+viewers N 
+views N V 
+village N 
+vincent N 
+vinson N 
+vintage ADJ N 
+violate V 
+violated V 
+violating V 
+violation N 
+violations N 
+violence N 
+violetta N 
+violin N 
+virgin ADJ N 
+virginia N 
+virtually ADV 
+virus N 
+visible ADJ 
+vision N 
+visit N V 
+visited V 
+visiting V 
+visitors N 
+vista N 
+vodka N 
+voice N V 
+voices N 
+volatile ADJ 
+volatility N 
+volokh N 
+volume N 
+voluntarily ADV 
+vote N V 
+voted V 
+voters N 
+votes N V 
+voting N V 
+vowed V 
+vs. ADJ CONJ N PRE SYM 
+vulnerable ADJ 
+w. N 
+wachovia N 
+wade N V 
+wage N V 
+wages N 
+wait N V 
+waited V 
+waiting N V 
+waive V 
+wake N 
+walk V 
+walked V 
+walker N 
+walking V 
+walks V 
+wall N V 
+walls N 
+walt N 
+walter N 
+wang N 
+want V 
+wanted V 
+wants V 
+war N 
+ward N V 
+warm ADJ 
+warned V 
+warner N 
+warning N V 
+warnings N 
+warns V 
+warrant N V 
+warrants N V 
+warren N 
+wars N 
+warsaw N 
+wary ADJ 
+was V 
+wash N V 
+wash. N 
+washington N 
+waste N V 
+watch N V 
+watched V 
+watches N V 
+watching N V 
+water N 
+waters N 
+watson N 
+watts N 
+wave N 
+waves N 
+way ADV N 
+wayne N 
+ways N 
+wcrs N 
+we N 
+weak ADJ 
+weaken V 
+weakened ADJ V 
+weakening N V 
+weaker ADJ 
+weakness N 
+wealth N 
+wealthy ADJ 
+weapon N 
+weapons N 
+wear N V 
+wearing V 
+wears V 
+weather N V 
+webster N 
+wednesday N 
+wedtech N 
+week N 
+weekend N 
+weekly ADJ ADV N 
+weeks N 
+weigh V 
+weighed V 
+weight N 
+weighted ADJ V 
+weiss N 
+welcome ADJ SYM V 
+welcomed V 
+welfare N 
+well ADV N SYM 
+well-known ADJ N 
+wellcome N 
+wellington N 
+wells N 
+went V 
+were V 
+werner N 
+west ADJ N 
+westamerica N 
+western ADJ N 
+westinghouse N 
+westmoreland N 
+westridge N 
+what DET N 
+whatever DET 
+wheat N 
+wheeler N 
+when ADV 
+when-issued ADJ V 
+whenever ADV 
+where ADV 
+whether CONJ N PRE 
+which DET PRE 
+while N PRE 
+whiskey N 
+whitbread N 
+white ADJ N 
+white-collar ADJ 
+whites N 
+whitten N 
+whittington N 
+who N 
+whole ADJ N 
+wholesale ADJ N 
+whom N 
+whose DET 
+why ADV 
+wide ADJ ADV 
+widely ADV 
+widened V 
+widens V 
+wider ADJ 
+widespread ADJ 
+widow N 
+wife N 
+wilbur N 
+wild ADJ ADV N 
+wilder N 
+wildly ADV 
+will N V 
+william N 
+williams N 
+willing ADJ 
+wilmer N 
+win V 
+wind N V 
+window N 
+windows N 
+wine N 
+wines N 
+winnebago N 
+winner N 
+winners N 
+winning ADJ N V 
+winter ADJ N 
+wiped V 
+wires N 
+wisconsin N 
+wisdom N 
+wish N V 
+with ADV PRE 
+withdraw V 
+withdrawal N 
+withdrawals N 
+withdrawn V 
+withdrew V 
+withholding N V 
+within PRE 
+without PRE 
+withstand V 
+witness N V 
+witnesses N 
+witter N 
+wives N 
+wo V 
+woes N 
+wolf N 
+woman N 
+women N 
+won N V 
+wonder N V 
+wonderful ADJ 
+wondering V 
+woo N V 
+wood N 
+wooden ADJ 
+woolworth N 
+word N 
+words N 
+wore V 
+work N V 
+worked V 
+worker N 
+workers N 
+working ADJ N V 
+workplace ADJ N 
+works N V 
+workstation N 
+workstations N 
+world N 
+world-wide ADJ ADV N 
+worldwide N 
+worried ADJ V 
+worries N V 
+worry N V 
+worse ADJ ADV 
+worsening N V 
+worst ADJ 
+worth ADJ N PRE 
+worthy ADJ 
+would V 
+wpp N 
+write V 
+write-down N 
+write-downs N 
+write-offs N 
+writer N 
+writers N 
+writes V 
+writing N V 
+written ADJ V 
+wrong ADJ ADV 
+wrongdoing N 
+wrote V 
+wsj N 
+x-rays N 
+xerox N 
+xtra N 
+yacht N 
+yale N 
+yamaichi N 
+yang N 
+yard N 
+year N 
+year-ago ADJ 
+year-earlier ADJ N 
+year-end ADJ ADV N 
+year-to-year ADJ 
+yeargin N 
+yearly ADJ ADV 
+years N 
+yeast N 
+yellow ADJ N 
+yen N 
+yes ADV N SYM 
+yesterday ADV N 
+yet ADV CONJ 
+yield N V 
+yielding ADJ N V 
+yields N V 
+york N 
+york-based ADJ N 
+you N 
+young ADJ N 
+younger ADJ 
+youngest ADJ 
+youngsters N 
+your N 
+youth N 
+z N 
+zealand N 
+zenith N 
+zero N V 
+zero-coupon ADJ N 
+zeta N 
+zone N 
+zones N 
+zurich N 
+{ ( 
+} ) 
